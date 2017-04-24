@@ -1,0 +1,742 @@
+,Date,Workout,Result,Prescribed,Work performed,Work time,Formatted Result,workout_name_length,Movements,power
+0,2017-04-04,"5 RFT: Power Cleans, Walking Lunges, and Thrusters",399000.0,True,42039,399000.0,6 mins 39 secs,50,"lunge, walking lunge, clean, power clean, thruster",105.360902256
+1,2017-04-02,Cindy:5 Pull-ups 10 Push-ups 15 Squats As many rounds as possible in 20 minutes,11.133,True,88204,1200000.0,11 rounds + 2 Pull-ups | 332 reps,5,"pull-up, push-up, squat",73.5033333333
+2,2017-03-28,21-15-9: Push Press and Box Jumps,419000.0,True,21197,419000.0,6 mins 59 secs,33,"box jump, press, push press",50.5894988067
+5,2017-03-26,"Row : 3x 1 km, rest 3 mins",771500.0,True,93741,771500.0,12 mins 51.5 secs,26,row,121.504860661
+6,2017-03-24,CrossFit Games Open 17.5,982000.0,True,66793,982000.0,16 mins 22 secs,24,,68.017311609
+7,2017-03-22,Every 1:30 for 10:30: Front Squat,857.2895793,True,5848,630000.0,1890 lbs,33,"front squat, squat",9.28253968254
+8,2017-03-22,AMRAP 5 mins: Squat Cleans and AbMat Sit-ups,3.81,True,29387,300000.0,3 rounds + 7 Squat Cleans + 13 AbMat Sit-ups | 104 reps,44,"abmat sit-up, sit-up, clean, squat clean, squat",97.9566666667
+9,2017-03-22,AMRAP 5 mins: Hanging Knee Raises and Push Press,3.0,True,2780,300000.0,3 rounds | 84 reps,48,"hanging knee raise, press, push press",9.26666666667
+10,2017-03-22,AMRAP 5 mins: Wall Balls and Pull-ups,1.6,True,10193,300000.0,1 round + 10 Wall Balls + 3 Pull-ups | 38 reps,37,"pull-up, wall ball",33.9766666667
+11,2017-03-21,AMRAP 10 mins: Lateral Burpee (Over Barbell)s and Power Snatches,2.833,True,44381,600000.0,2 rounds + 15 Lateral Burpee (Over Barbell)s + 10 Power Snatches | 85 reps,64,"burpee, lateral burpee (over barbell), power snatch, snatch",73.9683333333
+13,2017-03-20,"5 RFT: 200 m, Dumbbell Walking Lunges, and Dumbbell Thrusters",930000.0,True,68913,930000.0,15 mins 30 secs,61,"lunge, walking lunge, dumbbell thruster, dumbbell walking lunge, thruster",74.1
+14,2017-03-20,Every 1 min for 10 mins: Hang Snatch High Pulls and Hang Squat Snatches,10.0,True,4387,600000.0,10.0 rounds,71,"hang snatch, hang snatch high pull, hang squat snatch, snatch, snatch high pull, squat snatch, squat",7.31166666667
+16,2017-03-17,CrossFit Games Open 16.4 / 17.4,165.0,True,65071,780000.0,165 reps,31,,83.4243589744
+17,2017-03-15,"Chipper: Pistols (Alternating Legs)s, Wall Balls, Burpees, and Hang Power Snatches",750000.0,True,40195,750000.0,12 mins 30 secs,82,"burpee, pistol, pistols (alternating legs), hang power snatch, power snatch, snatch, wall ball",53.5933333333
+19,2017-03-15,"""Tabata"" - AbMat Sit-ups : 8 x 20 secs / 10 secs",92.0,True,15150,240000.0,92 reps | 92,48,"abmat sit-up, sit-up",63.125
+20,2017-03-14,"4 RFT: Power Cleans, Front Squats, and Burpees",1050000.0,True,70274,1050000.0,17 mins 30 secs,46,"burpee, clean, front squat, power clean, squat",66.9276190476
+21,2017-03-14,Every 2 mins for 10 mins: Deadlift,1190.67997125,True,6719,600000.0,2625 lbs,34,deadlift,11.1983333333
+22,2017-03-10,CrossFit Games Open 17.3 - Scaled / Scaled Teens 14-15 & Masters 55+,216.0,False,77414,1440000.0,216 reps,68,,53.7597222222
+23,2017-03-07,"3 RFT: Hang Power Clean & Jerks, Wall Balls, and Pull-ups",947000.0,True,47776,947000.0,15 mins 47 secs,57,"pull-up, clean, clean & jerk, hang power clean, hang power clean & jerk, jerk, power clean, power clean & jerk, wall ball",50.4498416051
+24,2017-03-07,Every 1 min for 7 mins: Thruster,1728.1869297,True,22862,420000.0,3810 lbs,32,thruster,54.4333333333
+25,2017-03-05,"""FGB Style"" - Dumbbell Thrusters, Airdyne Calories, Burpees, 2 and  more",314.0,False,74474,1125000.0,"314 reps | 46, 60, 70, 70, and 68 reps",72,"airdyne calories, burpee, dumbbell thruster, thruster",66.1991111111
+26,2017-03-05,Every 1 min for 10 mins: Overhead Squat,566.9904625,True,4016,600000.0,1250 lbs,39,"overhead squat, squat",6.69333333333
+28,2017-03-04,Tabata Barbell,223.0,True,55940,960000.0,223 reps | 50 + 33 + 64 + 76,14,,58.2708333333
+29,2017-03-04,Every 1:30 for 10:30: Back Squat,1047.7983747,True,6527,630000.0,2310 lbs,32,"back squat, squat",10.3603174603
+30,2017-03-03,CrossFit Games Open 17.2,78.0,True,2097,720000.0,78 reps,24,,2.9125
+31,2017-03-01,3 RFT: Sumo Deadlift High-pulls and Wall Balls,455000.0,True,34850,455000.0,7 mins 35 secs,46,"deadlift, sumo deadlift high-pull, wall ball",76.5934065934
+32,2017-03-01,Every 1:30 for 10:30: Front Squat,793.7866475,True,5622,630000.0,1750 lbs,33,"front squat, squat",8.92380952381
+33,2017-02-28,"Every 1 min for 10 mins: Snatch Lift Offs, Snatch High Pulls, and Snatches",10.0,True,7601,600000.0,10.0 rounds,74,"snatch, snatch high pull, snatch lift off",12.6683333333
+34,2017-02-28,"FT: Rows, Lateral Burpee (Over Barbell)s, Overhead Squats, and 6 more",928000.0,True,93708,928000.0,15 mins 28 secs,69,"row, burpee, lateral burpee (over barbell), overhead squat, squat",100.978448276
+35,2017-02-28,Every 1:30 for 10:30: Deadlift,1111.3013065,True,6271,630000.0,2450 lbs,30,deadlift,9.95396825397
+36,2017-02-28,Alt EMOM 12 mins: Strict Handstand Push-ups and Strict Muscle-up s,5201.0,False,5201,720000.0,Completed,66,"handstand push-up, muscle-up, push-up, strict handstand push-up, strict muscle-up",7.22361111111
+37,2017-02-27,"10-9-8-7-6-5-4-3-2-1: AbMat Sit-ups, Hand Release Push-Ups, and Pull-ups",597000.0,True,39922,597000.0,9 mins 57 secs,72,"abmat sit-up, hand release push-up, pull-up, push-up, sit-up",66.8710217755
+38,2017-02-26,"AMRAP 12 mins: Kettlebell Swings, Wall Balls, Ring Rows and Double Unders",2.438,True,38680,720000.0,2 rounds + 20 Kettlebell Swings + 15 Wall Balls | 235 reps,73,"double under, row, ring row, kettlebell swing, wall ball",53.7222222222
+39,2017-02-26,Every 1:30 for 10:30: Overhead Squat,730.2837157,True,5396,630000.0,1610 lbs,36,"overhead squat, squat",8.56507936508
+40,2017-02-26,Every 1 min for 15 mins: Squat Snatch,653.1730128,True,11480,900000.0,1440 lbs,37,"snatch, squat snatch, squat",12.7555555556
+41,2017-02-24,CrossFit Games Open 17.1,1216000.0,True,66764,1216000.0,20 mins 16 secs,24,,54.9046052632
+42,2017-02-22,"3 RFT: 800 m, Knees-to-chests, and Kettlebell Swing (American)s",1447000.0,True,82443,1447000.0,24 mins 7 secs,63,"knees-to-chest, kettlebell swing, kettlebell swing (american)",56.9751209399
+43,2017-02-21,"FT: Clean & Jerks, Double Unders, Burpees, and 2 more",885000.0,True,58976,885000.0,14 mins 45 secs,53,"double under, burpee, clean, clean & jerk, jerk",66.6395480226
+45,2017-02-10,CrossFit Games Open 12.2,66.0,True,40191,600000.0,66 reps,24,,66.985
+46,2017-02-05,"AMRAP 30 mins: 400 m, Burpee Box Jump Overs, Weighted AbMat Sit-ups, and 2 more",2.3,True,75004,1800000.0,2 rounds + 400 m + 10 Burpee Box Jump Overs,79,"abmat sit-up, box jump, box jump over, burpee, burpee box jump, burpee box jump over, sit-up, weighted abmat sit-up",41.6688888889
+47,2017-02-01,5x RFT: Wall Balls and Clean & Jerks,759000.0,True,77110,759000.0,"12 mins 39 secs | (2 mins 3 secs), (2 mins 41 secs), (2 mins 30 secs), (2 mins 46 secs), and (2 mins 39 secs)",36,"clean, clean & jerk, jerk, wall ball",101.594202899
+48,2017-01-30,"6 RFT: 200 m, Power Snatches, and Burpees",1750000.0,True,107637,1750000.0,29 mins 10 secs,41,"burpee, power snatch, snatch",61.5068571429
+49,2017-01-27,CrossFit Games Open 12.4 / 13.3,202.0,True,34253,720000.0,202 reps,31,,47.5736111111
+50,2016-12-23,"21-15-9: Pull-ups, Snatches, and Row Calories",1147000.0,True,61352,1147000.0,19 mins 7 secs,45,"row, row calories, pull-up, snatch",53.4891020052
+52,2016-12-22,"AMRAP 10 mins: Hand Release Push-Ups, Box Jumps, and Pistols (Alternating Legs)s",3.033,True,23372,600000.0,3 rounds + Hand Release Push-Up | 91 reps,80,"box jump, hand release push-up, pistol, pistols (alternating legs), push-up",38.9533333333
+53,2016-12-15,"3 RFT: Rows, Kettlebell Swing (American)s, and Pull-ups",1061000.0,True,85033,1061000.0,17 mins 41 secs,55,"row, pull-up, kettlebell swing, kettlebell swing (american)",80.1442035815
+54,2016-09-19,Nancy:400 meter run Overhead squat 95 lbs x 15 5 rounds for time.,1101000.0,True,83059,1101000.0,18 mins 21 secs,5,"run, overhead squat, squat",75.4396003633
+55,2016-09-13,Every 2 mins for 10 mins: Deadlift,1984.46661875,True,11243,600000.0,4375 lbs,34,deadlift,18.7383333333
+56,2016-09-13,"AMRAP 12 mins: Dumbbell Snatches, Ball Slams and 200 m",3.383,False,35975,720000.0,3 rounds + 10 Dumbbell Snatches + 3 Ball Slams,54,"ball slam, dumbbell snatch, snatch",49.9652777778
+57,2016-09-11,"5 RFT: Wall Balls, Burpees and Toes-to-bars",515000.0,False,33132,515000.0,8 mins 35 secs,43,"burpee, toes-to-bar, wall ball",64.3339805825
+58,2016-09-11,Every 2 mins for 10 mins: Front Squat,1281.39844525,True,9645,600000.0,2825 lbs,37,"front squat, squat",16.075
+59,2016-09-10,Every 2 mins for 10 mins: Shoulder Press,873.16531225,True,3398,600000.0,1925 lbs,40,"press, shoulder press",5.66333333333
+60,2016-09-09,Every 2 mins for 10 mins: Back Squat,1778.0820904,True,13446,600000.0,3920 lbs,36,"back squat, squat",22.41
+61,2016-09-09,"7 RFT: Push-ups, Clean & Jerks and Muscle-ups",900000.0,False,21344,900000.0,15 mins,45,"muscle-up, push-up, clean, clean & jerk, jerk",23.7155555556
+63,2016-09-06,Every 2 mins for 10 mins: Front Squat,1492.3188973,True,12428,600000.0,3290 lbs,37,"front squat, squat",20.7133333333
+64,2016-09-06,TK,3.5,False,25310,1200000.0,3 rounds + 8 Strict Pull-up (band)s + 4 Box Jumps | 96 reps,2,TK,21.0916666667
+65,2016-09-06,AbMat Sit-up : 100 Reps for Time,282000.0,True,16765,282000.0,4 mins 42 secs,32,"abmat sit-up, sit-up",59.4503546099
+66,2016-09-04,Every 2 mins for 10 mins: Overhead Squat,1174.8042383,True,11297,600000.0,2590 lbs,40,"overhead squat, squat",18.8283333333
+67,2016-09-04,Alt EMOM 12 mins: Strict Pull-ups and Strict Bar Dips,17140.0,False,17140,720000.0,Completed,53,"bar dip, dip, pull-up, strict bar dip, strict pull-up",23.8055555556
+68,2016-09-03,21-18-15-12-9-6-3: Front Squats and Burpee Over Bars,1075000.0,False,68020,1075000.0,17 mins 55 secs,52,"burpee, burpee over bar, front squat, squat",63.2744186047
+69,2016-09-02,"Chipper: Bikes, Double Kettlebell Push Press, Deadlifts, 4 and  more",1045000.0,False,19257,1045000.0,17 mins 25 secs,68,"bike, deadlift, double kettlebell push press, kettlebell push press, press, push press",18.4277511962
+70,2016-08-31,"3 RFT: Push Press, Front Rack Walking Lunges, Sumo Deadlift High-pulls and Overhead Walking Lunges",806000.0,False,18303,806000.0,13 mins 26 secs,98,"lunge, overhead walk, walking lunge, deadlift, front rack walking lunge, overhead walking lunge, press, push press, sumo deadlift high-pull",22.7084367246
+72,2016-08-30,"AMRAP 15 mins: Handstand Push-ups, Pull-ups, Bench Press and Ring Rows",5.339,False,25651,900000.0,5 rounds + 7 Dumbbell Shoulder Press + 5 Pull-ups | 222 reps,70,"row, handstand push-up, pull-up, push-up, ring row, bench press, press",28.5011111111
+73,2016-08-28,2014 CrossFit Games - Triple 3,3341000.0,False,170050,3341000.0,55 mins 41 secs,30,,50.8979347501
+74,2016-08-14,5 RFT: Dumbbell Snatches and 200 m,975000.0,False,68056,975000.0,16 mins 15 secs,34,"dumbbell snatch, snatch",69.801025641
+75,2016-07-30,FT: Dumbbell Thrusters and Muscle-ups,455000.0,False,10234,455000.0,7 mins 35 secs,37,"muscle-up, dumbbell thruster, thruster",22.4923076923
+76,2016-07-30,"""Tabata"" - Double Unders : 8 x 20 secs / 10 secs",195.0,True,16478,240000.0,195 reps | 195,48,double under,68.6583333333
+77,2016-07-29,Every 1 min for 10 mins: Back Squat,1593.92358818,True,9742,600000.0,3514 lbs,35,"back squat, squat",16.2366666667
+78,2016-07-27,"4 RFT: Handstand Push-ups, Rope Climbs and Air Squats",1325000.0,False,19506,1325000.0,22 mins 5 secs,53,"air squat, handstand push-up, push-up, rope climb, squat",14.721509434
+79,2016-07-27,5 RFT: 400 m,1496000.0,True,59942,1496000.0,24 mins 56 secs,12,,40.0681818182
+82,2016-07-26,Every 1 min for 10 mins: Front Squat,1202.0197805,True,8370,600000.0,2650 lbs,36,"front squat, squat",13.95
+83,2016-07-26,Annie:Double-unders Sit-ups 50-40-30-20 and 10 rep rounds; for time.,412000.0,True,38046,412000.0,6 mins 52 secs,5,"sit-up, double-under",92.3446601942
+84,2016-07-16,FT: 5x Handstand Push-ups and Box Jumps; 4x Muscle-ups and Back Rack...,1906000.0,False,37988,1906000.0,31 mins 46 secs,71,"box jump, handstand push-up, muscle-up, push-up",19.9307450157
+88,2016-07-12,Burpees : 100 Reps for Time,594000.0,True,50450,594000.0,9 mins 54 secs,27,burpee,84.9326599327
+89,2016-07-09,"FT: Rows, Deficit Handstand Push Ups, Rows, 3 and  more",795000.0,False,72291,795000.0,13 mins 15 secs,55,row,90.9320754717
+90,2016-07-09,Every 1 min for 15 mins: Squat Snatch,655.44097465,True,11334,900000.0,1445 lbs,37,"snatch, squat snatch, squat",12.5933333333
+91,2016-07-08,"5 RFT: Thrusters, Bent Over Barbell Rows and Toes-to-bars",1174000.0,True,27100,1174000.0,19 mins 34 secs,57,"row, toes-to-bar, bent over barbell row, thruster",23.0834752981
+92,2016-07-08,"AMRAP 15 mins: Double Unders, Handstand Walks, Kettlebell Deadlifts and Cartwheels",3.75,False,10200,900000.0,3 rounds + 30 Double Unders + 40 ft + 10 Kettlebell Deadlifts,82,"double under, handstand walk, cartwheel, deadlift, kettlebell deadlift",11.3333333333
+94,2016-07-06,Kettlebell Swing : 100 Reps for Time,384000.0,False,27045,384000.0,6 mins 24 secs,36,kettlebell swing,70.4296875
+95,2016-07-05,"Badger:95 pound Squat clean, 30 reps 30 Pull-ups Run 800 meters 3 rounds for time.",1949000.0,False,98591,1949000.0,32 mins 29 secs,6,"run, pull-up, clean, squat clean, squat",50.5854284248
+96,2016-07-02,1775,3.714,True,143291,3600000.0,3 rounds + 17 Power Cleans + 75 Air Squats + 200 m + 200 m + 200 m,4,1775,39.8030555556
+97,2016-06-29,"AMRAP 10 mins: 400 m, Shoulder Taps, Jumping Squats and Pull-ups",2.25,False,43508,600000.0,2 rounds + 400 m,64,"jumping squat, pull-up, shoulder tap, squat",72.5133333333
+100,2016-06-28,FT: 3x Deadlifts and Muscle-ups; 3x Wall Balls and Toes-to-bars,1043000.0,False,32813,1043000.0,17 mins 23 secs,63,"muscle-up, toes-to-bar, deadlift, wall ball",31.46021093
+101,2016-06-15,"AMRAP 12 mins: GHD Sit-ups, Pull-ups and Bench Press",4.089,True,36487,720000.0,4 rounds + 4 GHD Sit-ups | 148 reps,52,"ghd sit-up, pull-up, sit-up, bench press, press",50.6763888889
+102,2016-06-15,Alt EMOM 12 mins: Kettlebell Swing (Russian)s and Burpees,52633.0,False,52633,720000.0,Completed,57,"burpee, kettlebell swing",73.1013888889
+103,2016-06-15,"3 RFT: 200 m, Good Mornings, Push-ups and Deadlifts",550000.0,True,41781,550000.0,9 mins 10 secs,51,"push-up, deadlift, good morning",75.9654545455
+105,2016-06-14,"FT: 800 m, Muscle-ups, 400 m, 3 and  more",928000.0,False,64030,928000.0,15 mins 28 secs,41,muscle-up,68.9978448276
+107,2016-06-12,21-15-9: Deadlifts and Overhead Squats,594000.0,True,34743,594000.0,9 mins 54 secs,38,"deadlift, overhead squat, squat",58.4898989899
+108,2016-06-10,Run 1 mi TT,504000.0,True,33888,504000.0,8 mins 24 secs,11,run,67.2380952381
+109,2016-06-10,"AMRAP 10 mins: Walking Lunges, Handstand Walks and Burpee Broad Jumps",2.5,False,1641,600000.0,2 rounds + 20 yd + 10 yd,69,"handstand walk, burpee, burpee broad jump, lunge, walking lunge",2.735
+110,2016-06-08,"Chipper: 400 m, Box Jumps, 800 m, and 5 more",2379000.0,True,107704,2379000.0,39 mins 39 secs,44,box jump,45.272803699
+111,2016-06-07,Row : 250/500/750/1000/750/500/250 m,1014400.0,True,129637,1014400.0,16 mins 54.40000000000012 secs,36,row,127.796727129
+112,2016-06-05,"AMReps 12 mins: Bench Press, 200 m, Bench Press, 8 and  more",31.0,False,35302,720000.0,31 reps,60,"bench press, press",49.0305555556
+113,2016-06-05,Every 1 min for 10 mins: Back Squat,1973.1268095,True,13233,600000.0,4350 lbs,35,"back squat, squat",22.055
+114,2016-06-03,"Every 4 mins for 20 mins: Deadlifts, Box Jumps and 200 m",5.0,False,52304,1200000.0,5.0 rounds,56,"box jump, deadlift",43.5866666667
+117,2016-05-31,5 RFT: Rows and Squat Cleans,712000.0,True,61032,712000.0,11 mins 52 secs,28,"row, clean, squat clean, squat",85.7191011236
+118,2016-05-30,"Murph:1 mile Run 100 Pull-ups 200 Push-ups 300 Squats 1 mile Run For time. Partition the pull-ups, push-ups, and squats as needed. ve got a twenty pound vest or body armor, wear it.""]",3328000.0,True,247016,3328000.0,55 mins 28 secs,5,"run, pull-up, push-up, squat",74.2235576923
+120,2016-05-27,Nicole:Run 400 meters Max rep Pull-ups As many rounds as possible in 20 minutes.,69.0,True,86604,1200000.0,"69 reps | 22, 11, 12, 13, and 11",6,"run, pull-up",72.17
+121,2016-05-27,AMRAP 10 mins: GHD Sit-ups and Overhead Walking Lunges,5.167,True,23157,600000.0,5 rounds + 5 GHD Sit-ups,54,"ghd sit-up, lunge, overhead walk, sit-up, walking lunge, overhead walking lunge",38.595
+123,2016-05-25,"FT: Power Snatches, Double Unders and Power Clean & Jerks",686000.0,True,45694,686000.0,11 mins 26 secs,57,"double under, clean, clean & jerk, jerk, power clean, power clean & jerk, power snatch, snatch",66.6093294461
+124,2016-05-24,"21-15-9: Thrusters, Burpee Over Bars and Pull-ups",697000.0,True,54668,697000.0,11 mins 37 secs,49,"burpee, burpee over bar, pull-up, thruster",78.4332855093
+125,2016-05-22,2016 CrossFit Games Regional Event 6,1287000.0,False,25652,1287000.0,21 mins 27 secs,36,,19.9316239316
+126,2016-05-21,2016 CrossFit Games Regional Event 5,864000.0,False,30375,864000.0,14 mins 24 secs,36,,35.15625
+128,2016-05-18,Double Unders : 200 Reps for Time,242000.0,True,17200,242000.0,4 mins 2 secs,33,double under,71.0743801653
+129,2016-05-18,AMRAP 10 mins: Rows and Burpee Over Boxes,3.55,True,23977,600000.0,3 rounds + 200 m + Burpee Over Box,41,"row, burpee, burpee over box",39.9616666667
+130,2016-05-18,Every 1 min for 10 mins: Wall Balls and Chest-to-bar Pull-ups,10.0,False,34687,600000.0,10.0 rounds,61,"chest-to-bar pull-up, pull-up, wall ball",57.8116666667
+131,2016-05-10,"5 RFT: 400 m, Overhead Squats and Muscle-ups",1140000.0,False,47259,1140000.0,19 mins,44,"muscle-up, overhead squat, squat",41.4552631579
+135,2016-05-08,3 RFT: Wall Balls and Squat Snatches,1253000.0,True,65332,1253000.0,20 mins 53 secs,36,"snatch, squat snatch, wall ball, squat",52.1404628891
+136,2016-05-07,"Chipper: 400 m, Snatches, 400 m, 4 and  more",1215000.0,False,52177,1215000.0,20 mins 15 secs,44,snatch,42.9440329218
+137,2016-05-07,Every 1 min for 10 mins: Strict Handstand Push-up,1838.0,False,1838,600000.0,Completed,49,"handstand push-up, push-up, strict handstand push-up",3.06333333333
+138,2016-05-06,"AMReps 13 mins: Wall Balls, Sumo Deadlift High-pulls, Wall Balls, 3 and  more",184.0,True,55793,780000.0,184 reps,77,"deadlift, sumo deadlift high-pull, wall ball",71.5294871795
+139,2016-05-06,Every 1 min for 7 mins: Pistols and Ring Dips,7.0,False,7915,420000.0,7.0 rounds,45,"dip, pistol, ring dip",18.8452380952
+140,2016-05-04,"Fran:Thruster 95 lbs Pull-ups 21-15-9 reps, for time.",295000.0,True,32206,295000.0,4 mins 55 secs,4,"pull-up, thruster",109.172881356
+142,2016-05-03,AMRAP 10 mins: Back Squats and Legless Rope Climbs,5.5,False,12000,600000.0,5 rounds + 3 Back Squats | 33 reps,50,"legless rope climb, rope climb, back squat, squat",20.0
+144,2016-05-01,"5 RFT: Dumbbell Deadlifts, Dumbbell Hang Squat Cleans and Dumbbell Push Jerks",590000.0,True,28364,590000.0,9 mins 50 secs,77,"clean, deadlift, dumbbell deadlift, dumbbell hang squat clean, dumbbell push jerk, hang squat clean, jerk, push jerk, squat clean, squat",48.0745762712
+145,2016-05-01,AMRAP 12 mins: GHD Sit-ups and Double Unders,7.0,True,60131,720000.0,7 rounds | 455 reps,44,"double under, ghd sit-up, sit-up",83.5152777778
+146,2016-04-30,"Amanda:Three rounds, 9-7- and 5 reps, of: Muscle-up 135 pound Squat snatch",713000.0,False,16293,713000.0,11 mins 53 secs,6,"muscle-up, snatch, squat snatch, squat",22.8513323983
+147,2016-04-30,Every 1 min for 15 mins: Clean & Jerk,893.5769689,True,15598,900000.0,1970 lbs,37,"clean, clean & jerk, jerk",17.3311111111
+149,2016-04-29,The Seven,2055000.0,False,76409,2055000.0,34 mins 15 secs,9,The Seven,37.1819951338
+150,2016-04-27,"""Tabata"" - Sumo Deadlift High-pulls, Shoulder-to-Overheads, AbMat Sit-ups, 3 and  more : 8 x 20 secs / 10 secs",558.0,True,97559,1440000.0,558 reps | 75 + 80 + 103 + 34 + 107 + 159,110,"abmat sit-up, sit-up, deadlift, shoulder-to-overhead, sumo deadlift high-pull",67.7493055556
+151,2016-04-26,"3 RFT: 200 m, Overhead Walking Lunges and Double Unders",390000.0,False,26683,390000.0,6 mins 30 secs,55,"double under, lunge, overhead walk, walking lunge, overhead walking lunge",68.4179487179
+152,2016-04-26,Nancy:400 meter run Overhead squat 95 lbs x 15 5 rounds for time.,1005000.0,True,83690,1005000.0,16 mins 45 secs,5,"run, overhead squat, squat",83.2736318408
+153,2016-04-26,AMReps 2 mins: Back Squat,15.0,True,6931,120000.0,15 reps,25,"back squat, squat",57.7583333333
+157,2016-04-23,5 RFT: Squat Snatches and Burpee Over Bars,900000.0,True,59021,900000.0,15 mins,42,"burpee, burpee over bar, snatch, squat snatch, squat",65.5788888889
+158,2016-04-23,"""Death By"" - Handstand Push-ups and Toes-to-bars : 1 rep + 1 rep / 1 min",15.889,False,15616,540000.0,15 + (8 Push-ups),72,"handstand push-up, push-up, toes-to-bar",28.9185185185
+160,2016-04-22,"Kelly:Run 400 meters 30 box jump, 24 inch box 30 Wallball shots, 20 pound ball Five rounds for time.",1633000.0,True,145998,1633000.0,27 mins 13 secs,5,"run, box jump",89.404776485
+161,2016-04-20,"AMRAP 15 mins: Front Squats, Pull-ups and Box Jumps",4.578,True,47923,900000.0,4 rounds + 5 Front Squats + 11 Pull-ups | 156 reps,51,"box jump, pull-up, front squat, squat",53.2477777778
+162,2016-04-20,Every 15 secs for 4 mins: Deadlift,8695.0,False,8695,240000.0,Completed,34,deadlift,36.2291666667
+164,2016-04-19,"3 RFT: Overhead Squats, Double Unders and Rows",872000.0,True,76372,872000.0,14 mins 32 secs,46,"double under, row, overhead squat, squat",87.5825688073
+165,2016-04-17,Squat Clean & Jerks (Grace - Full Clean),464000.0,True,24865,464000.0,7 mins 44 secs,40,"clean, clean & jerk, jerk, squat clean, squat clean & jerk, squat",53.588362069
+166,2016-04-17,AMRAP 10 mins: GHD Sit-ups and Kettlebell Swings,3.333,True,34331,600000.0,3 rounds + 10 GHD Sit-ups | 115 reps,48,"ghd sit-up, sit-up, kettlebell swing",57.2183333333
+167,2016-04-16,4 RFT: Rows and Double Unders,447000.0,True,49599,447000.0,7 mins 27 secs,29,"double under, row",110.959731544
+168,2016-04-16,FT: Sled Drags; 3x Dumbbell Thrusters and Toes-to-bars; Sled Drags,1093000.0,True,19214,1093000.0,18 mins 13 secs,66,"sled drag, toes-to-bar, dumbbell thruster, thruster",17.5791399817
+170,2016-04-15,"AMRAP 10 mins: Deadlifts, Squat Cleans, Front Squats and Jerks",9.25,True,17525,600000.0,9 rounds + Deadlift | 37 reps,62,"clean, deadlift, front squat, jerk, squat clean, squat",29.2083333333
+171,2016-04-13,"AMRAP 12 mins: Rows, Pull-ups and Burpees",3.467,True,69207,720000.0,3 rounds + 250 m + 6 Pull-ups,41,"row, burpee, pull-up",96.1208333333
+172,2016-04-13,5 RFT: Handstand Push-ups and GHD Sit-ups,720000.0,True,21356,720000.0,12 mins,41,"ghd sit-up, handstand push-up, push-up, sit-up",29.6611111111
+173,2016-04-12,"Every 5 mins for 25 mins: Back Squats, 200 m and Deadlifts",5.0,True,70918,1500000.0,5.0 rounds,58,"back squat, deadlift, squat",47.2786666667
+174,2016-04-10,"AMRAP 5 mins: Air Squats, Push-ups and Strict Toes To Bars",3.0,False,16007,300000.0,3 rounds | 81 reps,58,"air squat, push-up, strict toes to bar, squat",53.3566666667
+175,2016-04-10,Squat Snatch : 30 Reps for Time,578000.0,True,23276,578000.0,9 mins 38 secs,31,"snatch, squat snatch, squat",40.2698961938
+176,2016-04-10,AMReps 10 mins: 800 m and Rope Climbs,5.0,True,23977,600000.0,5 reps,37,rope climb,39.9616666667
+177,2016-04-06,5 RFT: 400 m and Squat Snatches,1393000.0,True,79417,1393000.0,23 mins 13 secs,31,"snatch, squat snatch, squat",57.0114860014
+179,2016-04-05,15-12-9: Hang Power Cleans and Handstand Push-ups,567000.0,True,15466,567000.0,9 mins 27 secs,49,"handstand push-up, push-up, clean, hang power clean, power clean",27.2768959436
+180,2016-04-05,Kettlebell Swing (Russian) : 100 Reps for Time,369000.0,True,22940,369000.0,6 mins 9 secs,46,kettlebell swing,62.1680216802
+183,2016-04-03,FT: Back Squats and Rows,806000.0,True,53944,806000.0,13 mins 26 secs,24,"row, back squat, squat",66.9280397022
+184,2016-03-30,"Chipper: Rows, Squat Snatches, Squat Cleans, 6 and  more",1495000.0,True,115396,1495000.0,24 mins 55 secs,56,"row, clean, snatch, squat clean, squat snatch, squat",77.1879598662
+185,2016-03-30,"Sprint : 2x 300 m , rest 2 mins",144000.0,True,21525,144000.0,2 mins 24 secs,31,sprint,149.479166667
+186,2016-03-29,"4 RFT: Sled Drags, Pull-ups and Ring Dips",2460000.0,True,12569,2460000.0,41 mins,41,"sled drag, dip, pull-up, ring dip",5.1093495935
+187,2016-03-27,"Chipper: Muscle-ups, Deadlifts, Toes-to-bars, 3 and  more",901000.0,True,56703,901000.0,15 mins 1 sec,57,"muscle-up, toes-to-bar, deadlift",62.9334073252
+188,2016-03-26,AMRAP 12 mins: Sled Pushes and Burpees,5.5,True,26412,720000.0,5 rounds + 25 yd,38,"burpee, sled push",36.6833333333
+189,2016-03-26,Every 1:30 for 10:30: Overhead Squat,1081.81780245,True,8348,630000.0,2385 lbs,36,"overhead squat, squat",13.2507936508
+190,2016-03-25,CrossFit Games Open 14.5 / 16.5,947000.0,True,80811,947000.0,15 mins 47 secs,31,,85.3336853221
+193,2016-03-23,Every 1:30 for 10:30: Back Squat,1367.58099555,True,9366,630000.0,3015 lbs,32,"back squat, squat",14.8666666667
+194,2016-03-22,Every 1:30 for 10:30: Front Squat,1340.36545335,True,9269,630000.0,2955 lbs,33,"front squat, squat",14.7126984127
+195,2016-03-22,Every 1 min for 5 mins: Pistols and Ring Dips,5.0,True,7370,300000.0,5.0 rounds,45,"dip, pistol, ring dip",24.5666666667
+196,2016-03-20,CrossFit Games Open 16.4 / 17.4,168.0,True,39725,780000.0,168 reps,31,,50.9294871795
+197,2016-03-18,CrossFit Games Open 16.4 / 17.4 - Scaled,208.0,True,44814,780000.0,208 reps,40,,57.4538461538
+198,2016-03-17,2-4-6-8-10-8-6-4-2: Handstand Push-ups and Pistols,508000.0,True,12721,508000.0,8 mins 28 secs,50,"handstand push-up, pistol, push-up",25.0413385827
+199,2016-03-15,Every 1 min for 10 mins: Front Squat,1260.9867886,True,8773,600000.0,2780 lbs,36,"front squat, squat",14.6216666667
+200,2016-03-11,CrossFit Games Open 16.3 - Scaled,10.0,True,35698,420000.0,10 rounds | 150 reps,33,,84.9952380952
+201,2016-03-08,"AMRAP 20 mins: Snatch Grip Deadlifts, Power Snatches, Snatches and Overhead Squats",18.0,True,39331,1200000.0,18 rounds | 72 reps,82,"deadlift, overhead squat, power snatch, snatch, snatch grip deadlift, squat",32.7758333333
+202,2016-03-08,Double Unders : 300 Reps for Time,375000.0,True,26700,375000.0,6 mins 15 secs,33,double under,71.2
+203,2016-03-06,Every 45 secs for 9 mins: Deadlift,1088.621688,True,6058,540000.0,2400 lbs,34,deadlift,11.2185185185
+204,2016-03-05,Every 1 min for 10 mins: Overhead Squat,1052.3342984,True,8029,600000.0,2320 lbs,39,"overhead squat, squat",13.3816666667
+205,2016-03-05,Every 1 min for 15 mins: Power Snatch,644.1011654,True,9881,900000.0,1420 lbs,37,"power snatch, snatch",10.9788888889
+206,2016-03-03,CrossFit Games Open 16.2 - Scaled,430.0,True,48287,853000.0,430 reps,33,,56.6084407972
+208,2016-03-02,Every 1 min for 15 mins: Squat Clean & Jerk,893.5769689,True,15645,900000.0,1970 lbs,43,"clean, clean & jerk, jerk, squat clean, squat clean & jerk, squat",17.3833333333
+209,2016-03-02,Every 1 min for 10 mins: Back Squat,1514.9985158,True,9678,600000.0,3340 lbs,35,"back squat, squat",16.13
+210,2016-03-01,"30-20-10: Wall Balls, Toes-to-bars and Burpees",840000.0,True,65612,840000.0,14 mins,46,"burpee, toes-to-bar, wall ball",78.1095238095
+211,2016-03-01,Every 1 min for 10 mins: Front Squat,1242.8430938,True,8708,600000.0,2740 lbs,36,"front squat, squat",14.5133333333
+212,2016-02-28,FT: Bar Muscle-ups and Push Jerks,175000.0,False,11996,175000.0,2 mins 55 secs,33,"muscle-up, jerk, push jerk",68.5485714286
+213,2016-02-28,Every 1 min for 10 mins: Deadlift,1714.5791586,True,9660,600000.0,3780 lbs,33,deadlift,16.1
+214,2016-02-27,3 RFT: Thrusters and Burpees,429000.0,True,38537,429000.0,7 mins 9 secs,28,"burpee, thruster",89.8298368298
+215,2016-02-27,Every 1:30 for 10:30: Overhead Squat,1095.42557355,True,8397,630000.0,2415 lbs,36,"overhead squat, squat",13.3285714286
+216,2016-02-26,CrossFit Games Open 16.1 - Scaled / Teens Scaled,9.75,True,62961,1200000.0,9 rounds + 5 Front Rack Walking Lunges + 8 Bar Facing Burpees + 5 Front Rack Walking Lunges | 252 reps,48,,52.4675
+217,2016-02-24,"FT: Rows, Chest-to-bar Pull-ups and Handstand Push-ups",1350000.0,False,57029,1350000.0,22 mins 30 secs,54,"row, chest-to-bar pull-up, handstand push-up, pull-up, push-up",42.2437037037
+218,2016-02-24,Every 1:30 for 10:30: Back Squat,1462.83539325,True,9706,630000.0,3225 lbs,32,"back squat, squat",15.4063492063
+219,2016-02-24,Row : 5 mins,1187.0,True,38377,300000.0,1187 m,12,row,127.923333333
+220,2016-02-24,"AMRAP 4 mins: Kettlebell Swing (Russian)s, Box Jumps, and Dips",1.889,True,15768,240000.0,1 round + 15 Kettlebell Swing (Russian)s + 12 Box Jumps + 6 Dips | 69 reps,62,"box jump, dip, kettlebell swing",65.7
+221,2016-02-24,"AMRAP 4 mins: Kettlebell Swing (Russian)s, Box Jumps, and Dips",2.333,True,16547,240000.0,2 rounds + 12 Kettlebell Swing (Russian)s | 66 reps,62,"box jump, dip, kettlebell swing",68.9458333333
+222,2016-02-24,"AMRAP 4 mins: Kettlebell Swing (Russian)s, Box Jumps, and Dips",2.333,True,13259,240000.0,2 rounds + 9 Kettlebell Swing (Russian)s | 45 reps,62,"box jump, dip, kettlebell swing",55.2458333333
+224,2016-02-23,"AMRAP 20 mins: Rows, Wall Balls, Double Unders and Toes-to-bars",3.8,True,81710,1200000.0,3 rounds + 250 m + 20 Wall Balls + 50 Double Unders + 2 Toes-to-bars,63,"double under, row, toes-to-bar, wall ball",68.0916666667
+225,2016-02-23,Every 1:30 for 10:30: Front Squat,1190.67997125,True,8736,630000.0,2625 lbs,33,"front squat, squat",13.8666666667
+226,2016-02-23,Every 1 min for 15 mins: Squat Clean & Jerk,882.23715965,True,15500,900000.0,1945 lbs,43,"clean, clean & jerk, jerk, squat clean, squat clean & jerk, squat",17.2222222222
+228,2016-02-21,Every 1:30 for 10:30: Deadlift,1748.59858635,True,9916,630000.0,3855 lbs,30,deadlift,15.7396825397
+229,2016-02-21,"FT: Power Cleans, Dips, Power Cleans, and 3 more",594000.0,True,33813,594000.0,9 mins 54 secs,48,"dip, clean, power clean",56.9242424242
+230,2016-02-20,"""Tabata"" - Air Squats, Handstand Push-ups, Double Unders and Pull-ups : 8 x 20 secs / 10 secs",306.0,True,42266,960000.0,306 reps | 92 + 18 + 187 + 9,93,"double under, air squat, handstand push-up, pull-up, push-up, squat",44.0270833333
+233,2016-02-19,Run 800 m TT,280000.0,True,13487,280000.0,4 mins 40 secs,12,run,48.1678571429
+234,2016-02-19,CrossFit Games Open 14.4,130.0,True,10153,840000.0,130 reps,24,,12.0869047619
+235,2016-02-16,"Run : 5x 400 m, rest 3 mins",605000.0,True,46216,605000.0,10 mins 5 secs,27,run,76.3900826446
+236,2016-02-14,CrossFit Games Open 12.3,7.0,False,46907,1080000.0,7 rounds | 252 reps,24,,43.4324074074
+237,2016-02-13,"3 RFT: Rows, Double Unders and Air Squats",540000.0,True,47217,540000.0,9 mins,41,"double under, row, air squat, squat",87.4388888889
+238,2016-02-13,"5 RFT: Handstand Push-ups, Chest-to-bar Pull-ups and Pistols",548000.0,False,9759,548000.0,9 mins 8 secs,60,"chest-to-bar pull-up, handstand push-up, pistol, pull-up, push-up",17.8083941606
+240,2016-02-12,CrossFit Games Open 13.1,150.0,True,86066,1020000.0,150 reps,24,,84.3784313725
+242,2016-02-10,CrossFit Games Open 15.1,3.133,True,21564,540000.0,3 rounds + 6 Toes-to-bars | 96 reps,24,,39.9333333333
+244,2016-02-10,Alt EMOM 12 mins: Strict Handstand Push-ups and Strict Muscle-up s,5671.0,False,5671,720000.0,Completed,66,"handstand push-up, muscle-up, push-up, strict handstand push-up, strict muscle-up",7.87638888889
+245,2016-02-09,"""FGB Style"" - Airdyne (Calories)s, Row (calories)s and Burpees",114.0,False,19337,675000.0,"114 reps | 20, 22, 23, 24, and 25 reps",62,"row, burpee",28.6474074074
+247,2016-02-07,"""Tabata"" - Ball Slams, Jumping Squats and Handstand Holds : 3 x 30 secs / 30 secs",94.0,False,13318,540000.0,94 reps | 38 + 53 + 3,81,"handstand hold, jumping squat, ball slam, squat",24.662962963
+248,2016-02-07,7 RFT: Wall Balls and Muscle-ups,500000.0,False,22110,500000.0,8 mins 20 secs,32,"muscle-up, wall ball",44.22
+250,2016-02-07,"""Tabata"" - AbMat Sit-ups : 8 x 20 secs / 10 secs",97.0,True,17417,240000.0,97 reps | 97,48,"abmat sit-up, sit-up",72.5708333333
+253,2016-02-05,30-20-10: Sumo Deadlift High-pulls and Burpees,700000.0,True,54523,700000.0,11 mins 40 secs,46,"burpee, deadlift, sumo deadlift high-pull",77.89
+255,2016-02-04,"AMRAP 8 mins: Pull-ups, Push-ups, Airdyne (Calories)s and Double Unders",2.5,True,19401,480000.0,2 rounds + 5 Pull-ups + 10 Push-ups | 145 reps,71,"double under, pull-up, push-up",40.41875
+256,2016-02-04,CrossFit Games Open 15.3 - Scaled,2.695,True,63140,840000.0,2 rounds + 50 Wall Balls + 78 Jump Rope (Singles)s | 628 reps,33,,75.1666666667
+257,2016-02-04,Every 1 min for 20 mins: Squat Snatch,882.0,True,15338,1200000.0,882 kg,37,"snatch, squat snatch, squat",12.7816666667
+258,2016-02-02,CrossFit Games Open 15.4 - Scaled,6.35,True,45466,480000.0,6 rounds + 7 Push Press | 127 reps,33,,94.7208333333
+263,2016-01-27,"AMRAP 8 mins: Rows, Double Unders, Air Squats and Handstand Push-ups",3.09,False,49544,480000.0,3 rounds + 90 m,68,"double under, row, air squat, handstand push-up, push-up, squat",103.216666667
+264,2016-01-27,CrossFit Games Open 12.1,60.0,True,32229,420000.0,60 reps,24,,76.7357142857
+266,2016-01-26,"""Tabata"" - Kettlebell Swings, Airdyne (Calories)s and Goblet Squats : 3 x 30 secs / 30 secs",107.0,False,20045,540000.0,107 reps | 40 + 21 + 46,91,"goblet squat, kettlebell swing, squat",37.1203703704
+268,2016-01-26,"AMRAP 20 mins: Snatch Deadlifts, Power Snatches, Snatches and Overhead Squats",20.5,True,37271,1200000.0,20 rounds + Snatch Deadlift + Power Snatch | 82 reps,77,"deadlift, overhead squat, power snatch, snatch, snatch deadlift, squat",31.0591666667
+269,2016-01-24,"""Tabata"" - Handstand Holds and Burpees : 3 x 20 secs / 10 secs",21.0,True,9669,180000.0,21 reps | 3 + 18,62,"burpee, handstand hold",53.7166666667
+270,2016-01-24,"AMRAP 20 mins: Front Rack Lunges, Muscle-ups and Handstand Push-ups",6.125,False,6355,1200000.0,6 rounds + 15 ft,67,"handstand push-up, lunge, muscle-up, push-up, front rack lunge",5.29583333333
+274,2016-01-22,FT: Rows and Double Unders,270000.0,True,28570,270000.0,4 mins 30 secs,26,"double under, row",105.814814815
+275,2016-01-22,"Chipper: 800 m, Handstand Push-ups, Rope Climbs, 12 and  more",2711000.0,False,94125,2711000.0,45 mins 11 secs,61,"handstand push-up, push-up, rope climb",34.7196606418
+277,2016-01-20,"AMRAP 15 mins: Double Unders, Handstand Walks, Pistols and Burpee Broad Jumps",2.4,False,19002,900000.0,2 rounds + 50 Double Unders + 2 Wall Walks,77,"double under, handstand walk, burpee, burpee broad jump, pistol",21.1133333333
+278,2016-01-20,"AMRAP 5 mins: Push-ups, Jumping Squats and Handstand Push-ups",3.667,False,10635,300000.0,3 rounds + 12 Push-up (knees)s + 9 Jumping Squats | 102 reps,61,"handstand push-up, jumping squat, push-up, squat",35.45
+281,2016-01-19,"""Tabata"" - Double Unders and Ball Slams : 4 x 45 secs / 15 secs",207.0,True,14118,480000.0,207 reps | 156 + 51,63,"double under, ball slam",29.4125
+282,2016-01-19,CrossFit Games Open 14.5 / 16.5,1396000.0,True,81862,1396000.0,23 mins 16 secs,31,,58.6404011461
+283,2016-01-19,Every 1 min for 20 mins: Push-ups and Pull-ups,10.0,False,30595,1200000.0,10.0 rounds,46,"pull-up, push-up",25.4958333333
+285,2016-01-17,"Every 5 mins for 25 mins: Deadlifts, Box Jumps and Rows",5.0,False,72289,1500000.0,5.0 rounds,55,"row, box jump, deadlift",48.1926666667
+286,2016-01-16,"AMRAP 15 mins: Rows, Kettlebell Swing (American)s and Burpees",3.733,True,84318,900000.0,3 rounds + 250 m + 20 Kettlebell Swing (American)s + 3 Burpees,61,"row, burpee, kettlebell swing, kettlebell swing (american)",93.6866666667
+288,2016-01-16,Every 1 min for 15 mins: Hang Snatch,675.8526313,True,7404,900000.0,1490 lbs,36,"hang snatch, snatch",8.22666666667
+290,2016-01-15,"21-15-9: Pull-ups, Ring Dips and Handstand Push-ups",1151000.0,False,34819,1151000.0,19 mins 11 secs,51,"dip, handstand push-up, pull-up, push-up, ring dip",30.2510860122
+293,2016-01-13,CrossFit Games Open 12.4 / 13.3,247.0,False,42834,720000.0,247 reps,31,,59.4916666667
+295,2016-01-12,"""Tabata"" - Handstand Holds, Hollow Holds and Burpees : 4 x 20 secs / 10 secs",29.0,True,11280,360000.0,29 reps | 4 + 4 + 21,76,"burpee, handstand hold, hollow hold",31.3333333333
+297,2016-01-12,15-12-9: Front Squats and Toes-to-bars,132000.0,False,15933,132000.0,2 mins 12 secs,38,"toes-to-bar, front squat, squat",120.704545455
+298,2016-01-10,"AMRAP 5 mins: Double Unders, Jumping Alternating Lunges and Wall Balls",2.583,True,24466,300000.0,2 rounds + 30 Double Unders + 15 Jumping Alternating Lunges | 165 reps,70,"double under, jumping alternating lunge, lunge, wall ball",81.5533333333
+300,2016-01-10,Every 1 min for 15 mins: Power Clean & Jerk,864.0,True,14327,900000.0,864 kg,43,"clean, clean & jerk, jerk, power clean, power clean & jerk",15.9188888889
+301,2016-01-10,Row 1000 m TT,239100.0,True,36124,239100.0,3 mins 59.1 secs,13,row,151.083228775
+302,2016-01-09,CrossFit Games Open 11.2,5.148,True,56876,900000.0,5 rounds + 4 Deadlifts | 184 reps,24,,63.1955555556
+304,2016-01-06,"7 RFT: Power Snatches, Handstand Push-ups and Pull-ups",900000.0,False,39651,900000.0,15 mins,54,"handstand push-up, pull-up, push-up, power snatch, snatch",44.0566666667
+306,2016-01-05,Every 1 min for 15 mins: Split Jerk,884.5051215,True,3442,900000.0,1950 lbs,35,"jerk, split jerk",3.82444444444
+309,2015-12-30,"3x RFT: Double Unders, Double Kettlebell Front Squats, and Pull-ups",494000.0,True,26731,494000.0,"8 mins 14 secs | (1 min 44 secs), (2 mins 50 secs), and (3 mins 40 secs)",67,"double under, pull-up, double kettlebell front squat, front squat, squat",54.1113360324
+310,2015-12-29,"AMRAP 8 mins: Med Ball Sit Ups, Ball Slams and Wall Balls",3.733,False,14908,480000.0,3 rounds + 15 Med Ball Sit Ups + 10 Ball Slams + Wall Ball | 116 reps,57,"l sit, ball slam, wall ball",31.0583333333
+313,2015-12-29,AMRAP 10 mins: Rope Climb (Legless)s and Pistols,4.0,False,8705,600000.0,4 rounds | 44 reps,48,"pistol, rope climb",14.5083333333
+316,2015-12-22,CrossFit Games Open 11.4,0.667,True,43120,600000.0,0 rounds + 60 Burpee (Bar Facing)s + 30 Overhead Squats | 90 reps,24,,71.8666666667
+318,2015-12-20,"""Tabata"" - Rows, Burpees, Ski Ergs, 2 and  more : 6 x 45 secs / 15 secs",314.0,False,82109,1800000.0,314 reps | 69 + 68 + 93 + 48 + 36,71,"row, burpee",45.6161111111
+319,2015-12-20,"AMRAP 15 mins: Pistols, Handstand Walks, Handstand Push-ups and Walking Lunges",2.75,False,16550,600000.0,2 rounds + 10 Pistols + 5 ft + 10 Push-ups,78,"handstand walk, handstand push-up, lunge, pistol, push-up, walking lunge",27.5833333333
+325,2015-12-18,CrossFit Games Open 11.5,6.733,False,51711,1200000.0,6 rounds + 5 Power Cleans + 10 Leg Raises + 3 Wall Balls | 198 reps,24,,43.0925
+326,2015-12-18,"AMRAP 5 mins: Ball Slams, Medicine Ball Cleans and Wall Balls",2.0,False,19241,300000.0,2 rounds | 60 reps,61,"ball slam, clean, medicine ball clean, wall ball",64.1366666667
+328,2015-12-16,"""Tabata"" - Handstand Holds, Burpees and Jumping Squats : 5 x 20 secs / 10 secs",86.0,True,28072,450000.0,86 reps | 5 + 27 + 54,78,"burpee, handstand hold, jumping squat, squat",62.3822222222
+329,2015-12-16,"AMRAP 10 mins: Box Jumps, Shoulder-to-Overheads and Chest-to-bar Pull-ups",2.556,False,35181,600000.0,2 rounds + 25 Box Jumps + 10 Shoulder-to-Overheads | 135 reps,73,"box jump, chest-to-bar pull-up, pull-up, shoulder-to-overhead",58.635
+332,2015-12-15,"""Tabata"" - Burpees, Push-ups and Ball Slams : 7 x 20 secs / 10 secs",138.0,True,50308,630000.0,138 reps | 38 + 29 + 71,67,"burpee, push-up, ball slam",79.853968254
+335,2015-12-14,"Chipper: Double Unders, Handstand Push-ups, GHD Sit-ups, 2 and  more",1166000.0,False,29097,1166000.0,19 mins 26 secs,68,"double under, ghd sit-up, handstand push-up, push-up, sit-up",24.9545454545
+337,2015-12-14,"AMRAP 5 mins: Rows, Double Unders, Overhead Squats and Pull-ups",1.25,False,20278,300000.0,1 round + 200 m,63,"double under, row, pull-up, overhead squat, squat",67.5933333333
+340,2015-12-10,Row 10000 m TT,2908000.0,True,244212,2908000.0,48 mins 28 secs,14,row,83.9793672627
+345,2015-12-07,"3 RFT: Rows, Power Snatches, Overhead Squats and Double Unders",480000.0,True,51048,480000.0,8 mins,62,"double under, row, overhead squat, power snatch, snatch, squat",106.35
+346,2015-12-07,CrossFit Games Open 11.1 / 14.1,5.0,True,48443,600000.0,5 rounds | 225 reps,31,,80.7383333333
+347,2015-12-07,Alt EMOM 10 mins: Back Squats and Prone Dumbbell Rows,13318.0,True,13318,600000.0,Completed,53,"row, back squat, dumbbell row, prone dumbbell row, squat",22.1966666667
+348,2015-12-07,Alt EMOM 12 mins: Strict Handstand Push-ups and Strict Muscle-up s,5671.0,False,5671,720000.0,Completed,66,"handstand push-up, muscle-up, push-up, strict handstand push-up, strict muscle-up",7.87638888889
+350,2015-12-06,"3 RFT: Handstand Push-ups, Pull-ups and Back Squats",938000.0,False,56615,938000.0,15 mins 38 secs,51,"handstand push-up, pull-up, push-up, back squat, squat",60.3571428571
+351,2015-12-06,"AMRAP 10 mins: Box Step-Ups, Ring Dips and Kettlebell Swing (Russian)s",2.1,False,4610,600000.0,2 rounds + 3 Bar Dip (assisted)s | 63 reps,70,"box step-up, dip, ring dip, kettlebell swing",7.68333333333
+352,2015-12-06,"""Tabata"" - Hanging L Sits, Handstand Holds and Burpees : 3 x 20 secs / 10 secs",22.0,False,8594,270000.0,22 reps | 3 + 3 + 16,78,"burpee, handstand hold, hanging l sit, l sit",31.8296296296
+353,2015-12-06,Alt EMOM 10 mins: Overhead Squats and Bench Press,15768.0,False,15768,600000.0,Completed,49,"bench press, overhead squat, press, squat",26.28
+354,2015-12-05,"AMRAP 5 mins: Knee Jumps, Handstand Push-ups and Kettlebell Swings",4.0,False,9504,300000.0,4 rounds | 60 reps,66,"handstand push-up, knee jump, push-up, kettlebell swing",31.68
+355,2015-12-05,Every 1 min for 10 mins: Squat Clean & Jerk,546.57880585,True,9848,600000.0,1205 lbs,43,"clean, clean & jerk, jerk, squat clean, squat clean & jerk, squat",16.4133333333
+356,2015-12-05,CrossFit Games Open 11.3,38.0,True,18341,300000.0,38 reps,24,,61.1366666667
+357,2015-12-05,Alt EMOM 10 mins: Deadlifts and Weighted Dips,32724.0,False,32724,720000.0,Completed,45,"dip, deadlift, weighted dip",45.45
+358,2015-12-03,"""Tabata"" - Double Unders and Ball Slams : 8 x 20 secs / 10 secs",113.0,False,14684,240000.0,113 reps | 78 + 35,63,"double under, ball slam",61.1833333333
+359,2015-12-03,"Roy:Five rounds 225 pound Deadlift, 15 reps 20 Box jumps, 24 inch box 25 Pull-ups For Time",1119000.0,False,47440,1119000.0,18 mins 39 secs,3,"box jump, pull-up, deadlift",42.3949955317
+360,2015-12-03,Alt EMOM 10 mins: Front Squats and Shoulder Press,17808.0,True,17808,600000.0,Completed,49,"front squat, press, shoulder press, squat",29.68
+362,2015-12-02,"Every 1:30 for 15 mins: High Hang Squat Snatches, Hang Squat Snatches and Squat Snatches",10.0,True,12680,900000.0,10.0 rounds,88,"hang squat snatch, high hang squat snatch, snatch, squat snatch, squat",14.0888888889
+363,2015-12-02,Alt EMOM 10 mins: Back Squats and Prone Dumbbell Rows,16969.0,True,16969,600000.0,Completed,53,"row, back squat, dumbbell row, prone dumbbell row, squat",28.2816666667
+364,2015-12-02,AMRAP 5 mins: Handstand Push-ups and Muscle-ups,2.1,False,5263,300000.0,2 rounds + 3 Handstand Push-up (box)s | 41 reps,47,"handstand push-up, muscle-up, push-up",17.5433333333
+366,2015-12-01,50-40-30-20-10: Wall Balls and Sumo Deadlift High-pulls,883000.0,False,55903,883000.0,14 mins 43 secs,55,"deadlift, sumo deadlift high-pull, wall ball",63.3103057758
+367,2015-12-01,Alt EMOM 10 mins: Overhead Squats and Bench Press,21284.0,True,21284,600000.0,Completed,49,"bench press, overhead squat, press, squat",35.4733333333
+368,2015-12-01,"AMRAP 10 mins: GHD Sit-ups, Back Extensions and Handstand Walks",3.0,False,21240,600000.0,3 rounds,63,"handstand walk, back extension, ghd sit-up, sit-up",35.4
+369,2015-11-28,5 RFT: Rows and Deadlifts,882000.0,False,69474,882000.0,14 mins 42 secs,25,"row, deadlift",78.768707483
+370,2015-11-28,"""FGB Style"" - Overhead Holds and Thrusters",44.0,True,17153,300000.0,"44 reps | 9, 7, 8, 9, and 11 reps",42,"overhead hold, thruster",57.1766666667
+371,2015-11-28,"2 RFT: Rows, Kettlebell Swings, Pvc Overhead Squats and PVC Good Mornings",480000.0,False,11988,480000.0,8 mins,73,"row, good morning, kettlebell swing, overhead squat, pvc good morning, pvc overhead squat, squat",24.975
+372,2015-11-28,5 RFT: Kettlebell Swing (Russian)s and Ring Dips,240000.0,False,7316,240000.0,4 mins,48,"dip, ring dip, kettlebell swing",30.4833333333
+374,2015-11-27,"""Tabata"" - Air Squats, Dumbbell Push Press, AbMat Sit-ups, 2 and  more : 8 x 20 secs / 10 secs",328.0,True,82817,1200000.0,328 reps | 112 + 61 + 76 + 45 + 34,94,"abmat sit-up, air squat, sit-up, dumbbell push press, press, push press, squat",69.0141666667
+375,2015-11-25,"DT:Five rounds of: 155 pound Deadlift, 12 reps 155 pound Hang power clean, 9 reps 155 pound Push jerk, 6 reps For time",739000.0,True,44297,739000.0,12 mins 19 secs,2,"clean, deadlift, hang power clean, jerk, power clean, push jerk",59.9418132612
+376,2015-11-25,"FT: 400 m; 3x Knee Jumps, Burpees, Kettlebell Swings and Pvc Thrusters",600000.0,False,25729,600000.0,10 mins,70,"burpee, knee jump, kettlebell swing, pvc thruster, thruster",42.8816666667
+377,2015-11-25,Every 1 min for 15 mins: Snatch Balance,664.0,True,5666,900000.0,664 kg,39,"snatch, snatch balance",6.29555555556
+379,2015-11-24,Filthy Fifty,2326000.0,True,113449,2326000.0,38 mins 46 secs,12,,48.7742906277
+381,2015-11-22,Every 1 min for 20 mins: Split Jerk,1197.0,True,4659,1200000.0,1197 kg,35,"jerk, split jerk",3.8825
+387,2015-11-21,Every 2 mins for 10 mins: Front Squat,1000.17117585,True,6864,600000.0,2205 lbs,37,"front squat, squat",11.44
+388,2015-11-21,AMReps 5 mins: Kettlebell Snatch,62.0,True,22435,300000.0,62 reps,32,"kettlebell snatch, snatch",74.7833333333
+392,2015-11-17,Every 2 mins for 10 mins: Back Squat,1305.0,True,7950,600000.0,1305 kg,36,"back squat, squat",13.25
+396,2015-11-15,Nancy:400 meter run Overhead squat 95 lbs x 15 5 rounds for time.,1061000.0,True,84321,1061000.0,17 mins 41 secs,5,"run, overhead squat, squat",79.4731385485
+397,2015-11-15,Every 2 mins for 10 mins: Deadlift,1353.97322445,True,7588,600000.0,2985 lbs,34,deadlift,12.6466666667
+401,2015-11-14,21-15-9: Bench Press and Bar Muscle-ups,640000.0,False,7547,640000.0,10 mins 40 secs,39,"muscle-up, bench press, press",11.7921875
+402,2015-11-14,Every 2 mins for 10 mins: Overhead Squat,1270.058636,True,10025,600000.0,2800 lbs,40,"overhead squat, squat",16.7083333333
+404,2015-11-13,Every 1 min for 20 mins: Power Cleans and Strict Handstand Push-ups,20.0,False,17787,1200000.0,20.0 rounds,67,"handstand push-up, push-up, strict handstand push-up, clean, power clean",14.8225
+405,2015-11-13,Every 2 mins for 10 mins: Strict Press,850.48569375,True,3310,600000.0,1875 lbs,38,"press, strict press",5.51666666667
+406,2015-11-12,"Chipper: 400 m, Prone Dislocates, Squat Preps and Rtc Preps",510000.0,False,11988,510000.0,8 mins 30 secs,59,"prone dislocate, rtc prep, squat prep, squat",23.5058823529
+407,2015-11-12,Jackie:1000 meter row Thruster 45 lbs (50 reps) Pull-ups (30 reps) For time.,796000.0,True,64826,796000.0,13 mins 16 secs,6,"row, pull-up, thruster",81.4396984925
+408,2015-11-12,Every 2 mins for 10 mins: Back Squat,1984.46661875,True,12571,600000.0,4375 lbs,36,"back squat, squat",20.9516666667
+410,2015-11-10,Row 2 km TT,512000.0,True,63024,512000.0,8 mins 32 secs,11,row,123.09375
+411,2015-11-10,Every 2 mins for 10 mins: Deadlift,1995.806428,True,10986,600000.0,4400 lbs,34,deadlift,18.31
+412,2015-11-10,Alt EMOM 12 mins: Strict Pull-ups and Strict Bar Dips,8868.0,False,8868,720000.0,Completed,53,"bar dip, dip, pull-up, strict bar dip, strict pull-up",12.3166666667
+414,2015-11-10,"3 RFT: Rows, Air Squats, Burpees and Pull-ups",548000.0,False,48195,548000.0,9 mins 8 secs,45,"row, air squat, burpee, pull-up, squat",87.947080292
+415,2015-11-06,Row 500 m TT,108100.0,True,22091,108100.0,1 min 48.1 secs,12,row,204.357076781
+416,2015-11-06,Every 2 mins for 10 mins: Back Squat,2444.8628743,True,16411,600000.0,5390 lbs,36,"back squat, squat",27.3516666667
+421,2015-11-04,10-8-6-4-2: Muscle-ups and Handstand Push-ups,967000.0,False,3178,967000.0,16 mins 7 secs,45,"handstand push-up, muscle-up, push-up",3.28645294726
+422,2015-11-04,Every 2 mins for 10 mins: Deadlift,2413.1114084,True,14434,600000.0,5320 lbs,34,deadlift,24.0566666667
+424,2015-11-02,Every 30 secs for 10 mins: Squat Snatch,771.107029,True,14688,600000.0,1700 lbs,39,"snatch, squat snatch, squat",24.48
+426,2015-11-02,Every 2 mins for 10 mins: Front Squat,1876.0,True,14384,600000.0,1876 kg,37,"front squat, squat",23.9733333333
+427,2015-11-02,"AMRAP 10 mins: Dumbbell Walking Lunges, Dumbbell Push Press, Dumbbell Walking Lunges and Rope Climbs",2.15,False,4152,600000.0,2 rounds + 24 ft,100,"lunge, rope climb, walking lunge, dumbbell push press, dumbbell walking lunge, press, push press",6.92
+429,2015-11-01,Isabel:Snatch 135 lbs 30 reps for time.,395000.0,True,23606,395000.0,6 mins 35 secs,6,snatch,59.7620253165
+430,2015-11-01,Every 2 mins for 10 mins: Overhead Squat,1571.69756205,True,13300,600000.0,3465 lbs,40,"overhead squat, squat",22.1666666667
+431,2015-11-01,Alt EMOM 12 mins: Strict Pull-ups and Strict Bar Dips,8868.0,False,8868,720000.0,Completed,53,"bar dip, dip, pull-up, strict bar dip, strict pull-up",12.3166666667
+433,2015-11-01,"""Tabata"" - Pvc Thrusters and Burpees : 8 x 20 secs / 10 secs",77.0,True,14120,480000.0,77 reps | 51 + 26,60,"burpee, pvc thruster, thruster",29.4166666667
+436,2015-10-31,The Seven,2073000.0,False,78473,2073000.0,34 mins 33 secs,9,The Seven,37.854799807
+438,2015-10-29,Every 1 min for 20 mins: Power Clean & Jerk,1154.39258165,True,19182,1200000.0,2545 lbs,43,"clean, clean & jerk, jerk, power clean, power clean & jerk",15.985
+440,2015-10-25,"Karen:150 Wallball shots, 20 lbs ball For time",513000.0,True,45418,513000.0,8 mins 33 secs,5,,88.5341130604
+445,2015-10-24,"Every 4 mins for 20 mins: Rows, Air Squats and Rope Climb (Legless)s",5.0,False,70801,1200000.0,5.0 rounds,68,"row, air squat, rope climb, squat",59.0008333333
+446,2015-10-24,"Chipper: Ankle Mobilities, Kneeling Shoulder Stretches, 200 m, 7 and  more",660000.0,False,18449,660000.0,11 mins,74,kneeling shoulder stretch,27.953030303
+447,2015-10-24,Every 2 mins for 10 mins: Back Squat,1177.07220015,True,7494,600000.0,2595 lbs,36,"back squat, squat",12.49
+448,2015-10-24,Every 1 min for 5 mins: Strict Press,469.46810295,True,3045,300000.0,1035 lbs,36,"press, strict press",10.15
+450,2015-10-23,"""Tabata"" - Pvc Thrusters and Burpees : 8 x 20 secs / 10 secs",116.0,True,21604,480000.0,116 reps | 76 + 40,60,"burpee, pvc thruster, thruster",45.0083333333
+452,2015-10-23,Grace:Clean and Jerk 135 lbs 30 reps for time.,258000.0,True,25148,258000.0,4 mins 18 secs,5,"clean, jerk",97.4728682171
+453,2015-10-23,Every 2 mins for 10 mins: Deadlift,1279.1304834,True,7251,600000.0,2820 lbs,34,deadlift,12.085
+454,2015-10-23,Alt EMOM 12 mins: Strict Pull-ups and Strict Bar Dips,8819.0,False,8819,720000.0,Completed,53,"bar dip, dip, pull-up, strict bar dip, strict pull-up",12.2486111111
+457,2015-10-21,40-30-20-10: Wall Balls and Ball Slams,809000.0,True,59276,809000.0,13 mins 29 secs,38,"ball slam, wall ball",73.2707045735
+460,2015-10-21,Every 2 mins for 10 mins: Front Squat,898.1128926,True,6482,600000.0,1980 lbs,37,"front squat, squat",10.8033333333
+463,2015-10-20,J.T.,1164000.0,False,3972,1164000.0,19 mins 24 secs,4,J.T.,3.41237113402
+465,2015-10-20,Every 2 mins for 10 mins: Overhead Squat,775.6429527,True,6046,600000.0,1710 lbs,40,"overhead squat, squat",10.0766666667
+466,2015-10-20,AbMat Sit-up : 100 Reps for Time,265000.0,True,18054,265000.0,4 mins 25 secs,32,"abmat sit-up, sit-up",68.1283018868
+469,2015-10-17,5 RFT: Burpee Box Jumps and Dumbbell Thrusters,613000.0,False,53774,613000.0,10 mins 13 secs,46,"box jump, burpee, burpee box jump, dumbbell thruster, thruster",87.722675367
+470,2015-10-17,Every 2 mins for 10 mins: Deadlift,1905.087954,True,11090,600000.0,4200 lbs,34,deadlift,18.4833333333
+471,2015-10-16,Cindy:5 Pull-ups 10 Push-ups 15 Squats As many rounds as possible in 20 minutes,9.467,True,74441,1200000.0,9 rounds + 5 Pull-ups + 4 Push-ups | 279 reps,5,"pull-up, push-up, squat",62.0341666667
+472,2015-10-16,Every 2 mins for 10 mins: Front Squat,1236.03920825,True,9874,600000.0,2725 lbs,37,"front squat, squat",16.4566666667
+473,2015-10-14,Every 2 mins for 10 mins: Overhead Squat,963.88378625,True,8904,600000.0,2125 lbs,40,"overhead squat, squat",14.84
+474,2015-10-14,Every 45 secs for 15 mins: Squat Clean,1002.4391377,True,15499,900000.0,2210 lbs,38,"clean, squat clean, squat",17.2211111111
+476,2015-10-13,5 RFT: Front Squats and 400 m,784000.0,False,47135,784000.0,13 mins 4 secs,29,"front squat, squat",60.1211734694
+477,2015-10-13,Every 1 min for 20 mins: Double Unders and Squat Snatches,20.0,False,50006,1200000.0,20.0 rounds,57,"double under, snatch, squat snatch, squat",41.6716666667
+479,2015-10-06,Every 2 mins for 10 mins: Back Squat,2270.22981185,True,15747,600000.0,5005 lbs,36,"back squat, squat",26.245
+480,2015-10-06,"""Tabata"" - Toes-to-bars : 8 x 20 secs / 10 secs",76.0,False,13721,240000.0,76 reps | 76,47,toes-to-bar,57.1708333333
+484,2015-10-04,"Fran:Thruster 95 lbs Pull-ups 21-15-9 reps, for time.",381000.0,False,18976,381000.0,6 mins 21 secs,4,"pull-up, thruster",49.8057742782
+485,2015-10-04,Every 2 mins for 10 mins: Deadlift,1587.573295,True,10792,600000.0,3500 lbs,34,deadlift,17.9866666667
+486,2015-10-04,Every 1 min for 5 mins: Press,698.5322498,True,2719,300000.0,1540 lbs,29,press,9.06333333333
+488,2015-10-01,"AMRAP 12 mins: Pull-ups, Single Arm Db Bent Over Rows, Single Arm Db Bent Over Rows, and Hanging Knee Raises",2.833,True,5292,720000.0,2 rounds + 6 Pull-ups + 12 Single Arm Db Bent Over Rows + 12 Single Arm Db Bent Over Rows + 5 Hanging Knee Raises | 125 reps,108,"row, hanging knee raise, pull-up, single arm db bent over row",7.35
+489,2015-09-25,"FT: Box Jumps, One Arm Dumbbell Snatch (Alternating)s, One Arm Dumbbell Snatch (Alternating)s, and Box Jumps",939000.0,True,30333,939000.0,15 mins 39 secs,108,"box jump, dumbbell snatch, one arm dumbbell snatch (alternating), snatch",32.303514377
+490,2015-08-20,"FT: 800 m, Pull-ups, Box Jumps, and 4 more",2510000.0,True,117544,2510000.0,41 mins 50 secs,42,"box jump, pull-up",46.8302788845
+493,2015-07-21,3 RFT: Double Unders and Hang Clean & Jerks,340000.0,True,31323,340000.0,5 mins 40 secs,43,"double under, clean, clean & jerk, hang clean, hang clean & jerk, jerk",92.1264705882
+496,2015-06-27,"5 RFT: Cleans, Sprints, Kettlebell Snatches, and Rests",1582000.0,True,79752,1582000.0,26 mins 22 secs,54,"sprint, clean, kettlebell snatch, snatch",50.412136536
+497,2015-06-09,"4x AMRAP 4 mins: 400 m, Kettlebell Swing (American)s, and Double Unders",3.628,True,86109,960000.0,3.628 rounds,71,"double under, kettlebell swing, kettlebell swing (american)",89.696875
+498,2015-06-08,FT: Air Squats; 2x 500 m and Squat Jumps,900000.0,True,51853,900000.0,15 mins,40,"air squat, squat jump, squat",57.6144444444
+499,2015-06-06,"FT: AbMat Sit-ups, Deadlifts, AbMat Sit-ups, and 2 more",556000.0,True,40509,556000.0,9 mins 16 secs,55,"abmat sit-up, sit-up, deadlift",72.8579136691
+500,2015-06-05,"FT: Jump Rope (Singles)s, Goblet Squats, Jump Rope (Singles)s, and 7 more",495000.0,True,58146,495000.0,8 mins 15 secs,73,"jump rope (singles), goblet squat, squat",117.466666667
+501,2015-06-01,"FT: Burpees, Hang Power Cleans, Burpees, and 3 more",924000.0,True,53788,924000.0,15 mins 24 secs,51,"burpee, clean, hang power clean, power clean",58.2121212121
+502,2015-05-30,FT: Burpees; 5x Double Unders and AbMat Sit-ups; Wall Balls,934000.0,True,61774,934000.0,15 mins 34 secs,59,"double under, abmat sit-up, burpee, sit-up, wall ball",66.1391862955
+503,2015-05-25,"Murph:1 mile Run 100 Pull-ups 200 Push-ups 300 Squats 1 mile Run For time. Partition the pull-ups, push-ups, and squats as needed. ve got a twenty pound vest or body armor, wear it.""]",4738000.0,True,255769,4738000.0,78 mins 58 secs,5,"run, pull-up, push-up, squat",53.9824820599
+506,2015-05-23,3 RFT: Box Jumps and Clean & Jerks,717000.0,True,40541,717000.0,11 mins 57 secs,34,"box jump, clean, clean & jerk, jerk",56.5425383543
+509,2015-05-19,5x AMRAP 1 min: Front Squats and Push-up (hand release)s,5.732,True,31238,300000.0,5.732 rounds,56,"push-up, front squat, squat",104.126666667
+510,2015-05-19,"4 RFT: Airdyne (Calories)s, Air Squats, and Jumping Squats",750000.0,True,36365,750000.0,12 mins 30 secs,58,"air squat, jumping squat, squat",48.4866666667
+511,2015-05-15,"4 RFT: Power Cleans, Front Squats and Shoulder-to-Overheads",445000.0,False,21047,445000.0,7 mins 25 secs,59,"clean, front squat, power clean, shoulder-to-overhead, squat",47.2966292135
+512,2015-05-13,Every 1 min for 20 mins: Power Cleans and Lateral Burpee (Over Barbell)s,20.0,True,29447,1200000.0,20.0 rounds,72,"burpee, lateral burpee (over barbell), clean, power clean",24.5391666667
+514,2015-05-12,AMRAP 8 mins: Lunges and AbMat Sit-ups,3.125,True,33785,480000.0,3 rounds + 5 Lunges | 125 reps,38,"abmat sit-up, lunge, sit-up",70.3854166667
+515,2015-05-11,3x AMRAP 3 mins: 400 m and Pull-ups,2.75,True,43718,540000.0,2.75 rounds,35,pull-up,80.9592592593
+516,2015-05-11,"3 RFT: Bench Press, Plyo Push Ups (Height)s, and Side Planks",1193000.0,True,3654,1193000.0,19 mins 53 secs,60,"plyo push ups (height), side plank, bench press, press",3.06286672255
+518,2015-05-10,"Randy:75 pound power snatch, 75 reps For time",455000.0,True,35671,455000.0,7 mins 35 secs,5,"power snatch, snatch",78.3978021978
+519,2015-05-07,"""Tabata"" - Toes-to-bars : 8 x 20 secs / 10 secs",27.0,True,2046,240000.0,27 reps | 27,47,toes-to-bar,8.525
+520,2015-05-07,"""Tabata"" - Box Jump Overs : 8 x 20 secs / 10 secs",80.0,True,10240,240000.0,80 reps | 80,49,"box jump, box jump over",42.6666666667
+523,2015-05-06,Alt EMOM 15 mins: Deadlifts and Chin Up (Strict)s,20706.0,True,20706,900000.0,Completed,49,deadlift,23.0066666667
+524,2015-05-06,"AMRAP 7 mins: Box Jumps, Sit outs, and Kettlebell Swing (Russian)s",3.524,True,16976,420000.0,3 rounds + 7 Box Jumps + 8 Sit outs | 120 reps,66,"box jump, kettlebell swing",40.419047619
+525,2015-05-03,"5 RFT: Squat Snatches, Chin Over Bar Holds, Squat Snatches and Plank Holds",1197000.0,False,35462,1197000.0,19 mins 57 secs,74,"chin over bar hold, plank hold, snatch, squat snatch, squat",29.6257309942
+527,2015-05-01,"FT: Rows, Thrusters, and Pull-ups",456000.0,False,37690,456000.0,7 mins 36 secs,33,"row, pull-up, thruster",82.6535087719
+528,2015-04-30,"FT: 1 mi, Sit-up (GHD - parallel)s, Deadlifts, and Rope Climbs",1588000.0,True,61509,1588000.0,26 mins 28 secs,62,"rope climb, sit-up, sit-up (ghd - parallel), deadlift",38.733627204
+529,2015-04-29,"AMRAP 15 mins: Push-up (hand release)s, Wall Balls, and Kettlebell Swing (American)s",5.333,True,68784,900000.0,5 rounds + 10 Push-up (hand release)s | 235 reps,84,"push-up, kettlebell swing, kettlebell swing (american), wall ball",76.4266666667
+530,2015-04-29,"Power Cleans, Front Squats",1564.8936765,False,16686,600000.0,"3450 lbs | 95 lbs, 95 lbs, 105 lbs, 105 lbs, 115 lbs, 115 lbs, 125 lbs, 125 lbs, 135 lbs, and 135 lbs",26,"clean, front squat, power clean, squat",27.81
+531,2015-04-28,"3 RFT: Toes To Rings, Box Jump Overs, and Rows",977000.0,True,46655,977000.0,16 mins 17 secs,46,"row, box jump, box jump over, toes to ring",47.7533265097
+534,2015-04-24,"FT: Row (calories)s, Rope Climbs, and Box Jump Overs",694000.0,True,17920,694000.0,11 mins 34 secs,52,"row, box jump, box jump over, rope climb",25.8213256484
+535,2015-04-23,"6x RFT: Thrusters, AbMat Sit-ups, and Push-ups",692000.0,False,72321,692000.0,"11 mins 32 secs | (1 min 45 secs), (1 min 55 secs), (1 min 59 secs), (2 mins 15 secs), (1 min 45 secs), and (1 min 53 secs)",46,"abmat sit-up, push-up, sit-up, thruster",104.510115607
+536,2015-04-22,10-9-8-7-6-5-4-3-2-1: Wall Balls and Pull-ups,710000.0,True,34306,710000.0,11 mins 50 secs,45,"pull-up, wall ball",48.3183098592
+538,2015-04-21,"6x AMRAP 3 mins: Double Unders, 300 m, and Kettlebell Swing (American)s",5.408,True,107593,1080000.0,5.408 rounds,71,"double under, kettlebell swing, kettlebell swing (american)",99.6231481481
+540,2015-04-20,3 RFT: Renegade Rows and Front Squats,394000.0,True,11206,394000.0,6 mins 34 secs,37,"row, front squat, renegade row, squat",28.4416243655
+542,2015-04-15,"2x RFT: Rows, Hang Power Snatches, Bench Dips, and Wall Balls",916000.0,True,63025,916000.0,15 mins 16 secs | (7 mins 34 secs) and (7 mins 42 secs),61,"row, bench dip, dip, hang power snatch, power snatch, snatch, wall ball",68.8045851528
+544,2015-04-14,"3 RFT: Pull-ups, Kettlebell Swing (Russian)s, and 400 m",1200000.0,True,63337,1200000.0,20 mins,55,"pull-up, kettlebell swing",52.7808333333
+546,2015-04-13,"AMRAP 20 mins: Row (calories)s, Burpees, Toes-to-bars, and Overhead Walking Lunges",1.35,True,32789,1200000.0,1 round + 20 Row (calories)s + 12 Burpees | 142 reps,82,"row, burpee, lunge, overhead walk, toes-to-bar, walking lunge, overhead walking lunge",27.3241666667
+550,2015-04-10,"FT: Shoulder-to-Overheads, Rows, Shoulder-to-Overheads, and 3 more",696000.0,True,66106,696000.0,11 mins 36 secs,66,"row, shoulder-to-overhead",94.9798850575
+553,2015-04-09,"3 RFT: Wall Balls, Kettlebell Swing (American)s, and Burpee Pull Ups",1095000.0,True,50643,1095000.0,18 mins 15 secs,68,"burpee, kettlebell swing, kettlebell swing (american), wall ball",46.2493150685
+555,2015-04-08,"Push Press, Rests, Box Jump (16 in.)s",107.0,False,18224,480000.0,107 reps,37,"box jump, box jump (16 in.), press, push press",37.9666666667
+557,2015-04-07,AMReps 3 mins: Burpees,26.0,True,14120,180000.0,26 reps,22,burpee,78.4444444444
+559,2015-04-06,3 RFT: Renegade Man Makers and Rows,996000.0,True,58559,996000.0,16 mins 36 secs,35,row,58.7941767068
+560,2015-04-02,Hortman:Complete as many rounds as possible in 45 minutes of: Run 800 meters 80 Squats 8 Muscle-ups,2.338,False,158482,2700000.0,2 rounds + 1000 m + 28 Air Squats,7,"run, muscle-up, squat",58.697037037
+562,2015-04-01,15-12-9-6-3: Hang Power Cleans and Lateral Burpee (Over Barbell)s,650000.0,True,17755,650000.0,10 mins 50 secs,65,"burpee, lateral burpee (over barbell), clean, hang power clean, power clean",27.3153846154
+563,2015-03-27,CrossFit Games Open 15.5,706000.0,True,31666,706000.0,11 mins 46 secs,24,,44.8526912181
+564,2015-03-18,21-15-9: Deadlifts and Chest-to-bar Pull-ups,801000.0,True,35895,801000.0,13 mins 21 secs,44,"chest-to-bar pull-up, pull-up, deadlift",44.8127340824
+565,2015-03-13,CrossFit Games Open 15.3 - Scaled,3.13,True,72950,840000.0,3 rounds + 13 Wall Balls | 763 reps,33,,86.8452380952
+566,2015-03-06,CrossFit Games Open 15.2 - Scaled,138.0,True,40587,720000.0,138 reps,33,,56.3708333333
+567,2015-02-27,CrossFit Games Open 15.1,3.289,True,22194,540000.0,3 rounds + 13 Toes-to-bars | 103 reps,24,,41.1
+569,2015-02-19,AMRAP 5 mins: Power Snatches and Toes-to-bars,6.0,True,14041,300000.0,6 rounds | 60 reps,45,"toes-to-bar, power snatch, snatch",46.8033333333
+570,2015-02-19,AMRAP 5 mins: Hang Power Cleans and Double Unders,8.4,True,31097,300000.0,8 rounds + 4 Hang Power Cleans | 204 reps,49,"double under, clean, hang power clean, power clean",103.656666667
+571,2015-02-19,FT: Wall Balls and Burpees,615000.0,True,42293,615000.0,10 mins 15 secs,26,"burpee, wall ball",68.7691056911
+572,2015-02-11,Every 1 min for 5 mins: Power Clean & Jerk,16391.0,True,16391,300000.0,Completed,42,"clean, clean & jerk, jerk, power clean, power clean & jerk",54.6366666667
+576,2015-02-10,"""FGB Style"" - Toes-to-bars, One Arm Dumbbell Snatch (Alternating)s and Handstand Push-up (box)s",102.0,False,2022,720000.0,"102 reps | 28, 28, 21, and 25 reps",95,"handstand push-up, handstand push-up (box), push-up, toes-to-bar, dumbbell snatch, one arm dumbbell snatch (alternating), snatch",2.80833333333
+578,2015-02-06,Every 1 min for 5 mins: Power Clean,15102.0,True,15102,300000.0,Completed,35,"clean, power clean",50.34
+580,2015-02-06,3 RFT: Air Squats and 400 m,927000.0,True,68968,927000.0,15 mins 27 secs,27,"air squat, squat",74.3991370011
+582,2015-02-05,"4 RFT: Push-up (hand release)s, Push Up (Rings)s and Dumbbell Bench Press",900000.0,False,11630,900000.0,15 mins,73,"push-up, bench press, dumbbell bench press, press",12.9222222222
+583,2015-02-04,Every 1 min for 5 mins: Power Clean,14091.0,True,14091,300000.0,Completed,35,"clean, power clean",46.97
+584,2015-02-04,"""Death By"" - Deadlift : 95 lbs + 20 lbs / 30 secs",6.6,True,13567,210000.0,6 + (3 Deadlifts),49,deadlift,64.6047619048
+585,2015-02-04,6 RFT: Deadlifts and Box Jumps,587000.0,True,41903,587000.0,9 mins 47 secs,30,"box jump, deadlift",71.3850085179
+586,2015-02-02,Every 1 min for 5 mins: Power Clean,12070.0,True,12070,300000.0,Completed,35,"clean, power clean",40.2333333333
+588,2015-02-02,AMRAP 7 mins: Burpees and Double Unders,6.3,True,28902,420000.0,6 rounds + 3 Burpees | 153 reps,39,"double under, burpee",68.8142857143
+589,2015-01-13,"""Death By"" - Front Squat : 65 lbs + 10 lbs / 40 secs",9.8,False,19419,400000.0,9 + (4 Front Squats),52,"front squat, squat",48.5475
+590,2015-01-13,AMRAP 8 mins: Hang Squat Cleans and Toes-to-bars,4.063,True,18284,480000.0,4 rounds + Hang Squat Clean | 65 reps,48,"toes-to-bar, clean, hang squat clean, squat clean, squat",38.0916666667
+591,2015-01-12,"""Death By"" - Push Press : 35 lbs + 10 lbs / 20 secs",10.0,False,5384,200000.0,9 + (2 Push Press + 3 Push Press),51,"press, push press",26.92
+592,2015-01-12,AMRAP 8 mins: Push Press and Box Jump Overs,6.063,True,21993,480000.0,6 rounds + Push Press | 97 reps,43,"box jump, box jump over, press, push press",45.81875
+593,2015-01-05,"3 RFT: 400 m, Overhead Squats and Pull-ups",1735000.0,False,83843,1735000.0,28 mins 55 secs,42,"pull-up, overhead squat, squat",48.3244956772
+594,2014-12-30,"50-40-30-20-10: Deadlifts, Double Unders and AbMat Sit-ups",1294000.0,True,91773,1294000.0,21 mins 34 secs,58,"double under, abmat sit-up, sit-up, deadlift",70.9219474498
+595,2014-12-26,"21-18-15-12-9-6-3: Power Cleans, Sit-up (standard)s and Back Extensions",1010000.0,False,82264,1010000.0,16 mins 50 secs,71,"back extension, sit-up, sit-up (standard), clean, power clean",81.4495049505
+596,2014-12-19,"Diane:Deadlift 225 lbs Handstand push-ups 21-15-9 reps, for time.",830000.0,False,27426,830000.0,13 mins 50 secs,5,"handstand push-up, push-up, deadlift",33.043373494
+597,2014-12-18,"Chipper: AbMat Sit-ups, 1 mi, GHD Hip Extensions and 2 more",2280000.0,False,110082,2280000.0,38 mins,59,"abmat sit-up, ghd hip extension, hip extension, sit-up",48.2815789474
+598,2014-12-17,1-2-3-4-5-6-7-8-9-10-11-12: Hang Power Cleans and Ring Rows,1200000.0,False,29886,1200000.0,20 mins,59,"row, ring row, clean, hang power clean, power clean",24.905
+599,2014-12-15,"Chipper: Rows, 500 m, Deadlifts and 3 more",1953000.0,False,77724,1953000.0,32 mins 33 secs,42,"row, deadlift",39.797235023
+606,2014-11-18,"4 RFT: Rows, Pull-ups and Push Press",970000.0,True,64250,970000.0,16 mins 10 secs,36,"row, pull-up, press, push press",66.2371134021
+607,2014-11-12,CrossFit Games Regional 11.3,471000.0,False,35296,471000.0,7 mins 51 secs,28,,74.9384288747
+608,2014-11-11,Riley,2979000.0,True,226162,2979000.0,49 mins 39 secs,5,Riley,75.9187646861
+609,2014-11-04,Filthy Fifty,2300000.0,True,126170,2300000.0,38 mins 20 secs,12,,54.8565217391
+610,2014-11-03,Isabel:Snatch 135 lbs 30 reps for time.,490000.0,True,23606,490000.0,8 mins 10 secs,6,snatch,48.1755102041
+611,2014-11-03,Grace:Clean and Jerk 135 lbs 30 reps for time.,338000.0,True,25196,338000.0,5 mins 38 secs,5,"clean, jerk",74.5443786982
+612,2014-10-29,"AMReps 15 mins: Row (calories)s, Burpee Box Jumps, One Arm Dumbbell Snatch (Alternating)s and 2 more",250.0,True,29980,900000.0,250 reps,100,"row, box jump, burpee, burpee box jump, dumbbell snatch, one arm dumbbell snatch (alternating), snatch",33.3111111111
+618,2014-10-17,21-15-9: Power Cleans and Box Jumps,876000.0,False,42728,876000.0,14 mins 36 secs,35,"box jump, clean, power clean",48.7762557078
+620,2014-10-16,"3 RFT: 400 m, Hang Power Snatches and Pull-ups",1237000.0,False,71543,1237000.0,20 mins 37 secs,46,"pull-up, hang power snatch, power snatch, snatch",57.8358932902
+621,2014-10-15,"6x AMRAP 2 mins: Sled Pushes, Kettlebell Swing (Russian)s and Toes-to-bars",4.027,True,26136,720000.0,4.027 rounds,74,"toes-to-bar, kettlebell swing, sled push",36.3
+625,2014-10-09,"Chipper: 100 m, One Arm Dumbbell Snatch (Alternating)s, 200 m and 11 more",996000.0,False,47953,996000.0,16 mins 36 secs,73,"dumbbell snatch, one arm dumbbell snatch (alternating), snatch",48.1455823293
+626,2014-10-07,Run 1 mi TT,563000.0,True,27157,563000.0,9 mins 23 secs,11,run,48.2362344583
+627,2014-10-03,"FT: 800 m, Front Squats, Front Squats and 2 more",1197000.0,False,65702,1197000.0,19 mins 57 secs,48,"front squat, squat",54.8888888889
+630,2014-09-30,"5x RFT: Wall Balls, 200 m and AbMat Sit-ups",1350000.0,True,81951,1350000.0,"22 mins 30 secs | (3 mins 51 secs), (3 mins 54 secs), (4 mins 31 secs), (4 mins 36 secs), and (5 mins 38 secs)",43,"abmat sit-up, sit-up, wall ball",60.7044444444
+633,2014-09-28,"3 RFT: 400 m, Air Squats and Push Press",920000.0,False,60499,920000.0,15 mins 20 secs,39,"air squat, press, push press, squat",65.7597826087
+634,2014-09-25,"Every 2 mins for 12 mins: Body Rows, Hang Power Cleans, Push Press and 2 more",6.0,True,13797,720000.0,6.0 rounds,77,"row, body row, clean, hang power clean, power clean, press, push press",19.1625
+636,2014-09-24,FT: Rows and 400 m,272000.0,False,31508,272000.0,4 mins 32 secs,18,row,115.838235294
+637,2014-09-24,FT: Assault Bike (Calories)s and 400 m,390000.0,False,11988,390000.0,6 mins 30 secs,38,"assault bike, bike",30.7384615385
+638,2014-09-24,"FT: Rows, Assault Bike (Calories)s and 400 m",602000.0,True,31508,602000.0,10 mins 2 secs,44,"assault bike, bike, row",52.3388704319
+639,2014-09-24,Wall Balls : 60 Reps for Time,164000.0,False,17085,164000.0,2 mins 44 secs,29,wall ball,104.176829268
+643,2014-09-19,"AMRAP 14 mins w/ Buy-in: Double Unders, Overhead Squats, Burpees and AbMat Sit-ups",2.0,True,47290,840000.0,2 rounds,82,"double under, abmat sit-up, burpee, sit-up, overhead squat, squat",56.2976190476
+644,2014-09-17,AMRAP 5 mins: Thrusters and Plank Walks,1.625,False,14166,300000.0,1 round + 20 Thrusters + Plank Walk | 45 reps,39,"plank walk, thruster",47.22
+645,2014-09-16,"Every 3 mins for 18 mins: Hang Squat Cleans, GHD Sit-ups and Body Rows",,False,39556,1080000.0,Completed,70,"row, body row, ghd sit-up, sit-up, clean, hang squat clean, squat clean, squat",36.6259259259
+647,2014-09-14,FT: Medicine Ball Cleans and 200 ft,331000.0,True,46051,331000.0,5 mins 31 secs,35,"clean, medicine ball clean",139.126888218
+648,2014-09-14,"FT: Box Jump Overs, Pull-ups, and Thrusters",512000.0,True,38522,512000.0,8 mins 32 secs,43,"box jump, box jump over, pull-up, thruster",75.23828125
+649,2014-09-13,"21-15-9: Deadlifts, Shoulder-to-Overheads and Toes-to-bars",539000.0,True,19356,539000.0,8 mins 59 secs,58,"toes-to-bar, deadlift, shoulder-to-overhead",35.9109461967
+650,2014-09-13,"Chipper: Snatches, Snatches, Snatches and 6 more",540000.0,True,8184,540000.0,9 mins,48,snatch,15.1555555556
+651,2014-09-13,AMRAP 5 mins: Cleans and Double Unders,5.82,True,33668,300000.0,5 rounds + 5 Cleans + 16 Double Unders | 171 reps,38,"double under, clean",112.226666667
+652,2014-09-11,TK,4.917,False,34363,1200000.0,4 rounds + 8 Body Rows + 8 Box Jumps + 9 Kettlebell Swings | 137 reps,2,TK,28.6358333333
+654,2014-09-08,2 RFT: Box Jumps and Kettlebell Swing (American)s,402000.0,True,23347,402000.0,6 mins 42 secs,49,"box jump, kettlebell swing, kettlebell swing (american)",58.0771144279
+659,2014-08-18,Jackie:1000 meter row Thruster 45 lbs (50 reps) Pull-ups (30 reps) For time.,766000.0,True,63197,766000.0,12 mins 46 secs,6,"row, pull-up, thruster",82.5026109661
+660,2014-08-11,"Run : 4x 400 m, rest 2 mins",501000.0,True,33725,501000.0,8 mins 21 secs,27,run,67.3153692615
+661,2014-08-11,"Every 2 mins for 10 mins: Jumping Alternating Lunges, Power Cleans and Box Jumps",5.0,False,27044,600000.0,5.0 rounds,80,"box jump, jumping alternating lunge, lunge, clean, power clean",45.0733333333
+664,2014-08-06,"Run : 1600/800/400 m, rest 10 mins",974000.0,False,48604,974000.0,16 mins 14 secs,34,run,49.9014373717
+666,2014-08-05,Every 2 mins for 10 mins: Push Press,4166.0,False,4166,600000.0,Completed,36,"press, push press",6.94333333333
+668,2014-08-04,3x RFT: Sled Pushes and Front Squats,390000.0,False,8144,390000.0,"6 mins 30 secs | (2 mins), (2 mins), and (2 mins 30 secs)",36,"front squat, sled push, squat",20.8820512821
+669,2014-08-01,5 RFT: Power Cleans and Burpees,587000.0,False,52209,587000.0,9 mins 47 secs,31,"burpee, clean, power clean",88.9420783646
+672,2014-07-30,Every 1 min for 5 mins: Dumbbell Thruster,19838.0,False,19838,300000.0,Completed,41,"dumbbell thruster, thruster",66.1266666667
+678,2014-07-22,Mr. Joshua,1787000.0,False,112656,1787000.0,29 mins 47 secs,10,,63.0419697818
+681,2014-06-21,Annie:Double-unders Sit-ups 50-40-30-20 and 10 rep rounds; for time.,916000.0,False,37598,916000.0,15 mins 16 secs,5,"sit-up, double-under",41.0458515284
+682,2014-06-13,"FT: 800 m, Front Squats and 800 m",2070000.0,False,73000,2070000.0,34 mins 30 secs,33,"front squat, squat",35.2657004831
+684,2014-06-04,FT: Burpees and Wall Balls,336000.0,True,23920,336000.0,5 mins 36 secs,26,"burpee, wall ball",71.1904761905
+685,2014-06-03,2014 CrossFit Games Regional Event 5,660000.0,False,14616,660000.0,11 mins,36,,22.1454545455
+687,2014-06-02,"Chipper: Row (calories)s, Burpees, Toes-to-bars and 4 more",600000.0,False,27854,600000.0,10 mins,58,"row, burpee, toes-to-bar",46.4233333333
+689,2014-05-31,2014 CrossFit Games Regional Event 6,1260000.0,False,42867,1260000.0,21 mins,36,,34.0214285714
+690,2014-05-30,"FT: Rows, Thrusters and Burpees",867000.0,True,77727,867000.0,14 mins 27 secs,31,"row, burpee, thruster",89.6505190311
+692,2014-05-29,"3 RFT: Bumper Plate Ground To Overheads, Overhead Walking Lunges and Weighted Sit-ups",860000.0,True,23191,860000.0,14 mins 20 secs,85,"lunge, overhead walk, sit-up, walking lunge, bumper plate ground to overhead, ground to overhead, overhead walking lunge, weighted sit-up",26.9662790698
+694,2014-05-28,"AMRAP 7 mins: Box Jumps, Burpees and Kettlebell Swing (American)s",4.048,True,29545,420000.0,4 rounds + Box Jump | 85 reps,65,"box jump, burpee, kettlebell swing, kettlebell swing (american)",70.3452380952
+695,2014-05-26,"Murph:1 mile Run 100 Pull-ups 200 Push-ups 300 Squats 1 mile Run For time. Partition the pull-ups, push-ups, and squats as needed. ve got a twenty pound vest or body armor, wear it.""]",4834000.0,True,248766,4834000.0,80 mins 34 secs,5,"run, pull-up, push-up, squat",51.4617294166
+696,2014-05-24,"Fran:Thruster 95 lbs Pull-ups 21-15-9 reps, for time.",456000.0,True,31952,456000.0,7 mins 36 secs,4,"pull-up, thruster",70.0701754386
+697,2014-05-21,"AMRAP 15 mins: Push-up (hand release)s, Wall Balls and Kettlebell Swing (American)s",4.333,True,52792,900000.0,4 rounds + 10 Push-up (hand release)s | 190 reps,83,"push-up, kettlebell swing, kettlebell swing (american), wall ball",58.6577777778
+699,2014-05-20,"3 RFT: Dumbbell Man-Makers, Lateral Jumps and 300 m",855000.0,True,26974,855000.0,14 mins 15 secs,51,"lateral jump, dumbbell man-makers",31.5485380117
+700,2014-05-19,AMRAP 5 mins: Push Press and Burpees,4.0,True,25245,300000.0,4 rounds | 80 reps,36,"burpee, press, push press",84.15
+702,2014-05-15,"FT: Row (calories)s, Dumbbell Hang Power Cleans and Box Jump Overs",593000.0,False,33787,593000.0,9 mins 53 secs,66,"row, box jump, box jump over, clean, dumbbell hang power clean, hang power clean, power clean",56.976391231
+705,2014-05-13,10-9-8-7-6-5-4-3-2-1: Wall Balls and Pull-ups,585000.0,True,31517,585000.0,9 mins 45 secs,45,"pull-up, wall ball",53.8752136752
+706,2014-05-12,"Chipper: Power Snatches, Lateral Burpee (Over Barbell)s, Overhead Squats and 3 more",612000.0,True,22791,612000.0,10 mins 12 secs,83,"burpee, lateral burpee (over barbell), overhead squat, power snatch, snatch, squat",37.2401960784
+707,2014-05-10,Every 1 min for 7 mins: Split Jerks and Overhead Walking Lunges,7.0,True,14001,420000.0,7.0 rounds,63,"lunge, overhead walk, walking lunge, jerk, overhead walking lunge, split jerk",33.3357142857
+708,2014-05-09,"AMRAP 20 mins: Overhead Walking Lunges, Deadlifts, Toes-to-bars and 200 m",2.45,True,63321,1200000.0,2 rounds + 30 Overhead Walking Lunges + 20 Deadlifts,73,"lunge, overhead walk, toes-to-bar, walking lunge, deadlift, overhead walking lunge",52.7675
+710,2014-05-07,3x AMRAP 3 mins: Burpees and Wall Balls,8.214,True,47714,540000.0,8.214 rounds,39,"burpee, wall ball",88.3592592593
+711,2014-05-06,"3 RFT: Pull-ups, Kettlebell Swing (Russian)s and 400 m",1363000.0,True,65748,1363000.0,22 mins 43 secs,54,"pull-up, kettlebell swing",48.2377109318
+713,2014-05-05,"Chipper: Row (calories)s, Burpees, Toes-to-bars and 4 more",600000.0,False,23542,600000.0,10 mins,58,"row, burpee, toes-to-bar",39.2366666667
+714,2014-05-02,"FT: Sled Pushes, Double Unders, Shoulder-to-Overheads and 200 m",1380000.0,False,53857,1380000.0,23 mins,63,"double under, shoulder-to-overhead, sled push",39.0268115942
+716,2014-04-28,"3 RFT: Push-ups, Dumbbell Rows, Squat Clean Thrusters and 400 m",740000.0,False,49635,740000.0,12 mins 20 secs,63,"row, push-up, clean, dumbbell row, squat clean, squat clean thruster, thruster, squat",67.0743243243
+717,2014-04-24,FT: Pull-ups and Wall Balls,1290000.0,True,57303,1290000.0,21 mins 30 secs,27,"pull-up, wall ball",44.4209302326
+718,2014-04-23,"Every 2 mins for 10 mins: Deadlifts, Hang Power Cleans, Front Squats and Squat Cleans",5.0,True,10732,600000.0,5.0 rounds,85,"clean, deadlift, front squat, hang power clean, power clean, squat clean, squat",17.8866666667
+720,2014-04-22,"AMRAP 8 mins: Push Jerks, Burpees and Push-up (hand release)s",2.583,True,30471,480000.0,2 rounds + 8 Push Jerks + 9 Burpees | 89 reps,61,"burpee, push-up, jerk, push jerk",63.48125
+722,2014-04-21,AMRAP 10 mins: Power Cleans and Chest-to-bar Pull-ups,3.0,True,13875,600000.0,3 rounds | 33 reps,53,"chest-to-bar pull-up, pull-up, clean, power clean",23.125
+725,2014-04-16,3 RFT: Kettlebell Swing (American)s and Burpee Onto Plates,1110000.0,True,35766,1110000.0,18 mins 30 secs,58,"burpee, burpee onto plate, kettlebell swing, kettlebell swing (american)",32.2216216216
+726,2014-04-15,Every 2 mins for 20 mins: Squat Clean,17191.0,True,17191,1200000.0,Completed,37,"clean, squat clean, squat",14.3258333333
+727,2014-04-15,"Chipper: 1200 m, Shoulder-to-Overheads, 800 m and 3 more",1540000.0,True,81639,1540000.0,25 mins 40 secs,56,shoulder-to-overhead,53.0123376623
+728,2014-04-14,Every 1 min for 10 mins: One Arm Dumbbell Snatch (Alternating)s and Double Unders,10.0,True,17400,600000.0,10.0 rounds,81,"double under, dumbbell snatch, one arm dumbbell snatch (alternating), snatch",29.0
+730,2014-04-12,"FT: Rows, Wall Balls and One Arm Dumbbell Snatch (Alternating)s",586000.0,True,44578,586000.0,9 mins 46 secs,63,"row, dumbbell snatch, one arm dumbbell snatch (alternating), snatch, wall ball",76.0716723549
+731,2014-04-09,"Chipper: Row (calories)s, Wall Balls, Toes-to-bars and 2 more",1189000.0,True,53466,1189000.0,19 mins 49 secs,61,"row, toes-to-bar, wall ball",44.9671993272
+733,2014-04-08,Every 2 mins for 20 mins: Thrusters and Rope Climbs,10.0,False,33313,1200000.0,10.0 rounds,51,"rope climb, thruster",27.7608333333
+734,2014-04-07,"3x RFT: Deadlifts, Pull-ups, 800 m and Shoulder-to-Overheads",1926000.0,True,105572,1926000.0,"32 mins 6 secs | (9 mins 52 secs), (10 mins 54 secs), and (11 mins 20 secs)",60,"pull-up, deadlift, shoulder-to-overhead",54.8141225337
+735,2014-04-03,"FT: Rows, One Arm Dumbbell Snatch (Alternating)s and Toes-to-bars",1101000.0,True,31257,1101000.0,18 mins 21 secs,65,"row, toes-to-bar, dumbbell snatch, one arm dumbbell snatch (alternating), snatch",28.3896457766
+736,2014-04-01,Nancy:400 meter run Overhead squat 95 lbs x 15 5 rounds for time.,1037000.0,True,82878,1037000.0,17 mins 17 secs,5,"run, overhead squat, squat",79.9209257473
+738,2014-03-29,CrossFit Games Open 14.5 / 16.5,1045000.0,False,76958,1045000.0,17 mins 25 secs,31,,73.6440191388
+739,2014-03-29,CrossFit Games Open 14.5 / 16.5,1045000.0,True,76958,1045000.0,17 mins 25 secs,31,,73.6440191388
+740,2014-03-26,3 RFT: Power Cleans and Push Press,402000.0,True,22576,402000.0,6 mins 42 secs,34,"clean, power clean, press, push press",56.1592039801
+743,2014-03-24,Front Squat : 30 Reps for Time,530000.0,False,13538,530000.0,8 mins 50 secs,30,"front squat, squat",25.5433962264
+744,2014-03-24,FT: Shuttle Runs and Burpees,325000.0,True,23859,325000.0,5 mins 25 secs,28,"run, shuttle run, burpee",73.4123076923
+745,2014-03-23,"Chipper: Double Unders, Lunges, Push-up (knees)s and 2 more",829000.0,False,26415,829000.0,13 mins 49 secs,59,"double under, lunge, push-up, push-up (knees)",31.8636911942
+746,2014-03-22,CrossFit Games Open 14.4,174.0,True,31083,840000.0,174 reps,24,,37.0035714286
+747,2014-03-20,"3 RFT: Burpees, Toes-to-bars and Kettlebell Swing (American)s",624000.0,True,25937,624000.0,10 mins 24 secs,61,"burpee, toes-to-bar, kettlebell swing, kettlebell swing (american)",41.5657051282
+749,2014-03-19,Row : 5x 500 m,609200.0,True,87691,609200.0,10 mins 9.2 secs,14,row,143.9445174
+750,2014-03-19,"""Tabata"" - Rope Climbs : 5 x 1:30 / 5 mins",2.0,False,16700,1950000.0,2 reps | 2,42,rope climb,8.5641025641
+751,2014-03-18,Every 1 min for 7 mins: Power Cleans and Lateral Burpee (Over Barbell)s,7.0,False,20469,420000.0,7.0 rounds,71,"burpee, lateral burpee (over barbell), clean, power clean",48.7357142857
+752,2014-03-18,Every 1 min for 7 mins: Toes-to-bars and Wall Balls,7.0,True,13473,420000.0,7.0 rounds,51,"toes-to-bar, wall ball",32.0785714286
+753,2014-03-18,3x AMRAP 3 mins: Overhead Squats and AbMat Sit-ups,4.35,True,32740,540000.0,4.35 rounds,50,"abmat sit-up, sit-up, overhead squat, squat",60.6296296296
+754,2014-03-15,CrossFit Games Open 14.3,124.0,True,44956,480000.0,124 reps,24,,93.6583333333
+755,2014-03-12,Every 1 min for 10 mins: Power Clean,12505.0,True,12505,600000.0,Completed,36,"clean, power clean",20.8416666667
+757,2014-03-12,"AMRAP 12 mins: 200 m, Deadlifts and Push-up (hand release)s",4.467,True,57997,720000.0,4 rounds + 200 m + 4 Deadlifts,59,"push-up, deadlift",80.5513888889
+758,2014-03-11,"5 RFT: 400 m, Kettlebell Swing (American)s and Box Jumps",2012000.0,True,136826,2012000.0,33 mins 32 secs,56,"box jump, kettlebell swing, kettlebell swing (american)",68.0049701789
+760,2014-03-10,Squat Clean : 18 Reps for Time,406000.0,True,14517,406000.0,6 mins 46 secs,30,"clean, squat clean, squat",35.7561576355
+761,2014-03-10,"AMRAP 15 mins: Wall Balls, Monkey Bar Traverses and GHD Sit-ups",4.667,True,37170,900000.0,4 rounds + 15 Wall Balls + 25 ft,63,"ghd sit-up, monkey bar traverse, sit-up, wall ball",41.3
+762,2014-03-08,CrossFit Games Open 14.2 / 15.2,31.0,True,9924,180000.0,31 reps,31,,55.1333333333
+763,2014-03-08,J.J.,1365000.0,False,42135,1365000.0,22 mins 45 secs,4,J.J.,30.8681318681
+764,2014-03-07,"3 RFT: 400 m, Deadlifts, Box Jumps and 2 more",960000.0,True,57054,960000.0,16 mins,45,"box jump, deadlift",59.43125
+765,2014-03-06,"""Tabata"" - Hang Power Cleans and Push Jerks : 4 x 45 secs / 45 secs",109.0,True,29646,720000.0,109 reps | 59 + 50,67,"clean, hang power clean, jerk, power clean, push jerk",41.175
+767,2014-03-05,3x RFT: GHD Sit-ups and Sled Push Low Handles,600000.0,True,19880,600000.0,"10 mins | (3 mins 10 secs), (3 mins 14 secs), and (3 mins 36 secs)",45,"ghd sit-up, sit-up, sled push, sled push low handle",33.1333333333
+768,2014-03-04,Every 1 min for 12 mins: Power Snatch,20026.0,True,20026,720000.0,Completed,37,"power snatch, snatch",27.8138888889
+769,2014-03-04,"""Tabata"" - Dips : 4 x 1 min / 1 min",10.0,False,2698,480000.0,10 reps | 10,35,dip,5.62083333333
+770,2014-03-04,AMRAP 8 mins: Toes-to-bars and Burpees,4.25,False,18232,480000.0,4 rounds + 4 Toes-to-bars | 68 reps,38,"burpee, toes-to-bar",37.9833333333
+771,2014-03-03,"""Tabata"" - Wall Balls and Box Jumps : 5 x 45 secs / 15 secs",149.0,True,41957,600000.0,149 reps | 93 + 56,59,"box jump, wall ball",69.9283333333
+772,2014-03-03,"""Tabata"" - Back Squats and Pull-up (chest-to-bar) - bandeds : 3 x 1 min / 30 secs",47.0,False,10155,540000.0,47 reps | 21 + 26,81,"pull-up, back squat, squat",18.8055555556
+773,2014-02-28,CrossFit Games Open 11.1 / 14.1,6.533,True,58602,600000.0,6 rounds + 30 Double Unders + Power Snatch | 301 reps,31,,97.67
+774,2014-02-27,"AMRAP 10 mins w/ Buy-in: Rows, One Arm Dumbbell Snatch (Alternating)s and Dips",1.0,True,39848,600000.0,1 round,78,"row, dip, dumbbell snatch, one arm dumbbell snatch (alternating), snatch",66.4133333333
+775,2014-02-27,FT: Overhead Squats and Chest-to-bar Pull-ups,600000.0,False,6763,600000.0,10 mins,45,"chest-to-bar pull-up, pull-up, overhead squat, squat",11.2716666667
+777,2014-02-26,"FT: Double Unders, 400 m and Double Unders",570000.0,True,28688,570000.0,9 mins 30 secs,42,double under,50.3298245614
+779,2014-02-25,"Clean & Jerks, Rests, Burpees",82.0,True,46432,390000.0,82 reps,29,"burpee, clean, clean & jerk, jerk",119.056410256
+780,2014-02-24,Double Unders (Unbroken)s : 250 Reps for Time,324000.0,True,20875,324000.0,5 mins 24 secs,45,"double under, double unders (unbroken)",64.4290123457
+781,2014-02-24,"4 RFT: Double Unders (Unbroken)s, Wall Balls and Pull-ups",866000.0,True,43494,866000.0,14 mins 26 secs,57,"double under, double unders (unbroken), pull-up, wall ball",50.2240184758
+782,2014-02-24,FT: Dumbbell Thrusters and Run (Weighted)s,740000.0,True,13124,740000.0,12 mins 20 secs,42,"run, run (weighted), dumbbell thruster, thruster",17.7351351351
+783,2014-02-21,Barbra,1464000.0,False,92715,1464000.0,24 mins 24 secs,6,Barbra,63.3299180328
+785,2014-02-20,"Every 1:30 for 22:30: Power Cleans, Hang Power Cleans and Split Jerks",15.0,True,30059,1350000.0,15.0 rounds,69,"clean, hang power clean, jerk, power clean, split jerk",22.2659259259
+786,2014-02-20,AMRAP 7 mins: Toes-to-bars and Kettlebell Swing (American)s,6.5,True,7467,420000.0,6 rounds + 4 Toes-to-bars,59,"toes-to-bar, kettlebell swing, kettlebell swing (american)",17.7785714286
+790,2014-02-18,Every 1 min for 10 mins: Push Jerk,4237.0,True,4237,600000.0,Completed,34,"jerk, push jerk",7.06166666667
+791,2014-02-18,"4 RFT: Box Jumps, Handstand Holds and Airdyne Bikes",900000.0,False,8350,900000.0,15 mins,51,"airdyne bike, bike, box jump, handstand hold",9.27777777778
+792,2014-02-17,10 RFT: Front Squats and Double Unders,1006000.0,True,37647,1006000.0,16 mins 46 secs,38,"double under, front squat, squat",37.4224652087
+793,2014-02-16,"Every 1 min for 15 mins: Power Cleans, Front Squats and Split Jerks",15.0,True,18830,900000.0,15.0 rounds,67,"clean, front squat, jerk, power clean, split jerk, squat",20.9222222222
+796,2014-02-13,Run 1 mi TT,575000.0,True,26036,575000.0,9 mins 35 secs,11,run,45.28
+797,2014-02-13,"AMRAP 15 mins: Kettlebell Swing (American)s, Pull-ups, Push-up (hand release)s and Double Unders",2.333,True,42872,900000.0,2 rounds + 15 Kettlebell Swing (American)s + 5 Pull-ups,96,"double under, pull-up, push-up, kettlebell swing, kettlebell swing (american)",47.6355555556
+798,2014-02-10,"""Tabata"" - Air Squats : 8 x 20 secs / 10 secs",17.0,True,31122,240000.0,17 reps | 17,45,"air squat, squat",129.675
+800,2014-02-10,Every 1 min for 10 mins: Power Cleans and Hang Squat Cleans,10.0,True,12822,600000.0,10.0 rounds,59,"clean, hang squat clean, power clean, squat clean, squat",21.37
+802,2014-02-06,FT: Burpees and Pull-ups,581000.0,True,27007,581000.0,9 mins 41 secs,24,"burpee, pull-up",46.4836488812
+803,2014-02-05,"FT: Double Unders, GHD Sit-ups, L Sit (Hanging)s and 2 more",1200000.0,True,28429,1200000.0,20 mins,59,"double under, ghd sit-up, l sit, l sit (hanging), sit-up",23.6908333333
+805,2014-02-04,FT: Rows and Shoulder-to-Overheads,721000.0,True,57371,721000.0,12 mins 1 sec,34,"row, shoulder-to-overhead",79.5714285714
+806,2014-02-03,Every 1 min for 3 mins: Squat Cleans and Burpees,3.0,True,12083,180000.0,3.0 rounds,48,"burpee, clean, squat clean, squat",67.1277777778
+807,2014-02-03,Every 1 min for 4 mins: Squat Cleans and Burpees,3.0,False,15140,240000.0,3.0 rounds,48,"burpee, clean, squat clean, squat",63.0833333333
+808,2014-02-03,Every 1 min for 3 mins: Squat Cleans and Burpees,3.0,False,17712,300000.0,3.0 rounds,48,"burpee, clean, squat clean, squat",59.04
+809,2014-02-03,Power Clean : 15 Reps for Time,165000.0,False,8773,165000.0,2 mins 45 secs,30,"clean, power clean",53.1696969697
+812,2014-02-01,Double Under : 200 Reps for Time,275000.0,True,16700,275000.0,4 mins 35 secs,32,double under,60.7272727273
+815,2014-01-22,Row 2 km TT,501000.0,True,65822,501000.0,8 mins 21 secs,11,row,131.381237525
+824,2013-08-16,Nancy:400 meter run Overhead squat 95 lbs x 15 5 rounds for time.,1160000.0,True,84090,1160000.0,19 mins 20 secs,5,"run, overhead squat, squat",72.4913793103
+825,2013-08-16,"""Tabata"" - Kettlebell Swing (American) : 8 x 20 secs / 10 secs",67.0,True,15978,240000.0,67 reps | 67,62,"kettlebell swing, kettlebell swing (american)",66.575
+826,2013-08-05,Run 2600 m TT,898000.0,True,45012,898000.0,14 mins 58 secs,13,run,50.1247216036
+828,2013-08-03,Grace:Clean and Jerk 135 lbs 30 reps for time.,179000.0,True,24440,179000.0,2 mins 59 secs,5,"clean, jerk",136.536312849
+829,2013-08-03,"Chipper: Lateral Burpee (Over Barbell)s, Overhead Squats, Kettlebell Swing (American)s and Box Jumps",270000.0,True,24277,270000.0,4 mins 30 secs,100,"box jump, burpee, lateral burpee (over barbell), kettlebell swing, kettlebell swing (american), overhead squat, squat",89.9148148148
+831,2013-07-30,21-15-9: Bench Press and Strict Pull-ups,1200000.0,False,19288,1200000.0,20 mins,40,"pull-up, strict pull-up, bench press, press",16.0733333333
+832,2013-07-23,FT: Push-up (hand release)s; 10x Push Press and Split Jerks; Toes-to...,960000.0,False,24732,960000.0,16 mins,71,"push-up, jerk, press, push press, split jerk",25.7625
+833,2013-07-22,Every 1 min for 8 mins: Power Cleans and Chest-to-bar Pull-ups,8.0,True,21515,480000.0,8.0 rounds,62,"chest-to-bar pull-up, pull-up, clean, power clean",44.8229166667
+835,2013-07-20,Helen:400 meter run 1.5 pood Kettlebell swing x 21 Pull-ups 12 reps 3 rounds for time.,885000.0,True,60700,885000.0,14 mins 45 secs,5,"run, pull-up, kettlebell swing",68.5875706215
+836,2013-07-18,Grace:Clean and Jerk 135 lbs 30 reps for time.,181000.0,True,24440,181000.0,3 mins 1 sec,5,"clean, jerk",135.027624309
+837,2013-07-18,"Chipper: Lateral Burpee (Over Barbell)s, Overhead Squats, Kettlebell Swing (American)s and Box Jumps",300000.0,True,24277,300000.0,5 mins,100,"box jump, burpee, lateral burpee (over barbell), kettlebell swing, kettlebell swing (american), overhead squat, squat",80.9233333333
+839,2013-07-16,"3 RFT: Pull-ups, Overhead Squats and Double Unders",1230000.0,True,44214,1230000.0,20 mins 30 secs,50,"double under, pull-up, overhead squat, squat",35.9463414634
+841,2013-07-12,"AMRAP 25 mins: Burpees, Power Snatches, Shoulder-to-Overheads and 5 more",1.0,False,64706,1500000.0,1 round,72,"burpee, power snatch, shoulder-to-overhead, snatch",43.1373333333
+843,2013-07-11,"AMRAP 18 mins: 300 m, Parallel Bar Walks, Kettlebell Swing (American)s and Handstand Push-ups",3.0,False,49184,1080000.0,3 rounds,93,"handstand push-up, parallel bar walk, push-up, kettlebell swing, kettlebell swing (american)",45.5407407407
+844,2013-07-10,CrossFit Games Open 11.1 / 14.1,3.533,True,35609,600000.0,3 rounds + 30 Double Unders + Power Snatch,31,,59.3483333333
+847,2013-07-03,"4 RFT: 200 m, Double Unders, Kettlebell Swing (Russian)s and Pull-ups",1186000.0,True,67644,1186000.0,19 mins 46 secs,69,"double under, pull-up, kettlebell swing",57.0354131535
+853,2013-07-01,"""Tabata"" - Push-ups : 8 x 20 secs / 10 secs",4.0,True,10908,240000.0,4 reps | 4,43,push-up,45.45
+857,2013-05-27,"Murph:1 mile Run 100 Pull-ups 200 Push-ups 300 Squats 1 mile Run For time. Partition the pull-ups, push-ups, and squats as needed. ve got a twenty pound vest or body armor, wear it.""]",3944000.0,True,242639,3944000.0,65 mins 44 secs,5,"run, pull-up, push-up, squat",61.5210446247
+858,2013-05-21,6 RFT: Hang Power Clean & Jerks and Push-ups,910000.0,True,39279,910000.0,15 mins 10 secs,44,"push-up, clean, clean & jerk, hang power clean, hang power clean & jerk, jerk, power clean, power clean & jerk",43.1637362637
+859,2013-05-20,Every 3 mins for 18 mins: Air Squats and 200 m,6.0,True,66083,1080000.0,6.0 rounds,46,"air squat, squat",61.187962963
+861,2013-05-18,Row 1 km TT,237000.0,True,36767,237000.0,3 mins 57 secs,11,row,155.135021097
+862,2013-05-18,"AMRAP 7 mins: Front Squats, Push Jerks and Kettlebell Swings",4.467,True,27929,420000.0,4 rounds + 5 Front Squats + 4 Push Jerks,60,"front squat, jerk, kettlebell swing, push jerk, squat",66.4976190476
+863,2013-05-18,"FT: Deadlifts, Pull-ups, Power Snatches and 2 more",900000.0,True,47197,900000.0,15 mins,50,"pull-up, deadlift, power snatch, snatch",52.4411111111
+864,2013-05-18,"8 RFT: Wall Balls, 25 m, Box Jump (Step Up)s and 25 m",745000.0,True,38465,745000.0,12 mins 25 secs,53,"box jump, box jump (step up), wall ball",51.6308724832
+865,2013-05-16,"5 RFT: Air Squats, Push Jerks and Pull-ups",924000.0,True,43151,924000.0,15 mins 24 secs,42,"air squat, pull-up, jerk, push jerk, squat",46.7002164502
+866,2013-05-14,Nancy:400 meter run Overhead squat 95 lbs x 15 5 rounds for time.,1167000.0,True,82698,1167000.0,19 mins 27 secs,5,"run, overhead squat, squat",70.8637532134
+867,2013-05-11,Every 1 min for 12 mins: Deadlifts and Push Up (Rings)s,12.0,False,62987,720000.0,12.0 rounds,55,deadlift,87.4819444444
+869,2013-05-08,"21-15-9: Front Squats, Sit outs and Toes-to-bars",600000.0,True,13268,600000.0,10 mins,48,"toes-to-bar, front squat, squat",22.1133333333
+870,2013-05-07,3 RFT: Kettlebell Swing (American)s and Clean & Jerks,464000.0,True,42210,464000.0,7 mins 44 secs,53,"clean, clean & jerk, jerk, kettlebell swing, kettlebell swing (american)",90.9698275862
+871,2013-05-07,"""Tabata"" - Bench Press : 8 x 20 secs / 10 secs",3.0,True,5790,240000.0,3 reps | 3,46,"bench press, press",24.125
+873,2013-05-02,"5 RFT: Handstand Push-ups, Bear Crawls, Deadlifts and 400 m",1979000.0,False,81544,1979000.0,32 mins 59 secs,59,"bear crawl, handstand push-up, push-up, deadlift",41.2046488125
+875,2013-05-01,"Chipper: 400 m, Double Unders, Burpees and 5 more",1320000.0,False,63156,1320000.0,22 mins,49,"double under, burpee",47.8454545455
+877,2013-04-30,Grace:Clean and Jerk 135 lbs 30 reps for time.,174000.0,True,24346,174000.0,2 mins 54 secs,5,"clean, jerk",139.91954023
+879,2013-04-29,15-12-9: Squat Clean Thrusters and Box Jump Overs,483000.0,True,36294,483000.0,8 mins 3 secs,49,"box jump, box jump over, clean, squat clean, squat clean thruster, thruster, squat",75.1428571429
+880,2013-04-28,Run 4 mi TT,2520000.0,False,86753,2520000.0,42 mins,11,run,34.4257936508
+881,2013-04-26,"Elizabeth:Clean 135 lbs Ring Dips 21-15-9 reps, for time.",844000.0,False,30673,844000.0,14 mins 4 secs,9,"dip, ring dip, clean",36.3424170616
+883,2013-04-25,Annie:Double-unders Sit-ups 50-40-30-20 and 10 rep rounds; for time.,420000.0,True,36927,420000.0,7 mins,5,"sit-up, double-under",87.9214285714
+887,2013-04-20,"""FGB Style"" - Box Jumps, Row (calories)s, Kettlebell Swings and 2 more",313.0,True,62314,900000.0,"313 reps | 106, 103, and 104 reps",70,"row, box jump, kettlebell swing",69.2377777778
+888,2013-04-19,"AMRAP 5 mins: Front Squats, Toes To Bars and Row (calories)s",3.667,True,7631,300000.0,3 rounds + 5 Front Squats + 6 Toes To Bars,60,"row, front squat, squat",25.4366666667
+889,2013-04-18,Every 1:30 for 18 mins: Power Cleans and Split Jerks,12.0,True,13286,1080000.0,12.0 rounds,52,"clean, jerk, power clean, split jerk",12.3018518519
+890,2013-04-18,Every 1:30 for 6 mins: Power Cleans and Push Press,4.0,True,6062,360000.0,4.0 rounds,50,"clean, power clean, press, push press",16.8388888889
+891,2013-04-18,10-9-8-7-6-5-4-3-2-1: Strict Press and L Sit (Hanging)s,882000.0,False,3398,882000.0,14 mins 42 secs,55,"l sit, l sit (hanging), press, strict press",3.85260770975
+892,2013-04-17,Every 2 mins for 16 mins: Front Squat,9997.0,False,9997,960000.0,Completed,37,"front squat, squat",10.4135416667
+894,2013-04-15,Every 2 mins for 16 mins: Hang Snatch,10714.0,False,10714,960000.0,Completed,37,"hang snatch, snatch",11.1604166667
+895,2013-04-15,Every 2 mins for 8 mins: Power Clean,15434.0,False,15434,480000.0,Completed,36,"clean, power clean",32.1541666667
+896,2013-04-12,"21-18-15-12-9-6-3: Kettlebell Swings, Run (hill)s and Burpees",1731000.0,False,60706,1731000.0,28 mins 51 secs,61,"run, burpee, kettlebell swing",35.0699017909
+897,2013-04-11,"FT: Pull-ups, Handstand Push Ups and Rows",1140000.0,False,50128,1140000.0,19 mins,41,"row, pull-up",43.9719298246
+899,2013-04-10,AMReps 3 mins: Hang Squat Clean,22.0,True,11064,180000.0,22 reps,31,"clean, hang squat clean, squat clean, squat",61.4666666667
+903,2013-04-06,CrossFit Games Open 13.5,24.0,True,9351,240000.0,24 reps,24,,38.9625
+905,2013-04-03,AMRAP 7 mins: Overhead Squats and Kettlebell Swing (American)s,2.167,True,11652,420000.0,2 rounds + Overhead Squat,62,"kettlebell swing, kettlebell swing (american), overhead squat, squat",27.7428571429
+906,2013-04-02,"Chipper: Shoulder Press, Overhead Squats, Push Press and 3 more",765000.0,False,31913,765000.0,12 mins 45 secs,63,"overhead squat, press, push press, shoulder press, squat",41.7163398693
+907,2013-03-30,CrossFit Games Open 13.4,68.0,True,33603,420000.0,68 reps,24,,80.0071428571
+910,2013-03-28,Run 2.5 mi TT,1430000.0,False,65774,1430000.0,23 mins 50 secs,13,run,45.9958041958
+911,2013-03-27,"AMRAP 35 mins: 400 m, Kettlebell Swings, 400 m and 16 more",0.903,True,107476,2100000.0,0 rounds + 400 m + 50 Kettlebell Swings + 400 m + 21 Deadlifts + 21 Push-ups + 15 Deadlifts + 15 Push-ups + 9 Deadlifts + 9 Push-ups + 400 m + 21 Box Jumps + 21 Toes To Bars + 15 Box Jumps + 15 Toes To Bars + 9 Box Jumps + 9 Toes To Bars + 400 m + 8 Kettl,58,kettlebell swing,51.179047619
+914,2013-03-25,"AMRAP 15 mins: Thrusters, Toes To Bars, Overhead Squats and Chest-to-bar Pull-ups",1.975,True,29448,900000.0,1 round + 15 Thrusters + 10 Toes To Bars + 15 Overhead Squats + 9 Chest-to-bar Pull-ups,81,"chest-to-bar pull-up, pull-up, overhead squat, thruster, squat",32.72
+915,2013-03-23,"FT: Kettlebell Swings, Toes To Bars and 400 m",484000.0,False,16241,484000.0,8 mins 4 secs,45,kettlebell swing,33.555785124
+919,2013-03-21,CrossFit Games Open 12.4 / 13.3,245.0,False,9135,720000.0,245 reps,31,,12.6875
+920,2013-03-19,AMReps 5 mins: Back Squat,14.0,False,6963,300000.0,14 reps,25,"back squat, squat",23.21
+921,2013-03-19,AMReps 3 mins: Back Squat,13.0,False,6045,180000.0,13 reps,25,"back squat, squat",33.5833333333
+922,2013-03-19,AMReps 1 min: Back Squat,11.0,False,4760,60000.0,11 reps,24,"back squat, squat",79.3333333333
+923,2013-03-19,AMRAP 7 mins: Wall Balls and Hang Power Cleans,2.813,True,25562,420000.0,2 rounds + 20 Wall Balls + 5 Hang Power Cleans,46,"clean, hang power clean, power clean, wall ball",60.8619047619
+925,2013-03-14,CrossFit Games Open 13.2,8.433,True,59574,600000.0,8 rounds + 5 Shoulder-to-Overheads + 3 Deadlifts,24,,99.29
+926,2013-03-13,"Every 2 mins for 20 mins: Bear Crawls, Double Unders and Ball Slams",10.0,False,57808,1200000.0,10.0 rounds,67,"bear crawl, double under, ball slam",48.1733333333
+928,2013-03-12,AMRAP 25 mins: 1000 m and Jumping Bar Muscle Ups,2.5,False,89912,1500000.0,2 rounds + 1000 m,48,,59.9413333333
+930,2013-03-11,AMRAP 6 mins: Wall Balls and Toes To Bars,1.0,True,14074,360000.0,1 round,41,wall ball,39.0944444444
+931,2013-03-10,Run 2.5 mi TT,1500000.0,False,59778,1500000.0,25 mins,13,run,39.852
+932,2013-03-09,CrossFit Games Open 13.1,151.0,True,82054,1020000.0,151 reps,24,,80.4450980392
+933,2013-03-07,CrossFit Games Open 13.1,150.0,True,83148,1020000.0,150 reps,24,,81.5176470588
+934,2013-03-06,"""Tabata"" - Ice Skaters, Push-up (medicine ball)s, Medicine Ball Over Bars and 2 more : 10 x 20 secs / 10 secs",472.0,False,19290,1500000.0,472 reps | 146 + 43 + 43 + 17 + 223,109,"ice skater, push-up, push-up (medicine ball), medicine ball over bar",12.86
+935,2013-03-05,"Fran:Thruster 95 lbs Pull-ups 21-15-9 reps, for time.",293000.0,False,24327,293000.0,4 mins 53 secs,4,"pull-up, thruster",83.0273037543
+938,2013-03-02,"20-15-10-5: Medicine Ball Cleans, Lateral Burpee (Over Barbell)s and Weighted Lunges",705000.0,False,30248,705000.0,11 mins 45 secs,84,"burpee, lateral burpee (over barbell), lunge, clean, medicine ball clean, weighted lunge",42.904964539
+940,2013-03-01,"AMRAP 10 mins: Squat Cleans, Front Squats, Pull-ups and Jumping Bar Muscle Ups",4.0,False,22038,600000.0,4 rounds,78,"pull-up, clean, front squat, squat clean, squat",36.73
+942,2013-02-28,"AMRAP 9 mins: Wall Balls, Kettlebell Swings and Push-up (hand release)s",0.854,True,39899,540000.0,0 rounds + 40 Wall Balls + 60 Kettlebell Swings + 45 Push-up (hand release)s,71,"push-up, kettlebell swing, wall ball",73.887037037
+943,2013-02-27,21-15-9: Wall Ball (2 For 1)s and Burpee Box Jumps,593000.0,True,56508,593000.0,9 mins 53 secs,50,"box jump, burpee, burpee box jump, wall ball, wall ball (2 for 1)",95.2917369309
+945,2013-02-26,AMReps 7 mins: Snatches and Pull Up (Strict)s,25.0,False,13180,420000.0,25 reps,45,snatch,31.380952381
+948,2013-02-22,FT: 3x Squat Cleans and Pull-ups; Sit outs,943000.0,True,40259,943000.0,15 mins 43 secs,42,"pull-up, clean, squat clean, squat",42.6924708378
+950,2013-02-21,Every 1:30 for 9 mins: Double Unders (Unbroken)s and Kettlebell Swings,6.0,True,37358,540000.0,6.0 rounds,70,"double under, double unders (unbroken), kettlebell swing",69.1814814815
+952,2013-02-19,Every 1 min for 18 mins: Snatch,30872.0,True,30872,1080000.0,Completed,31,snatch,28.5851851852
+954,2013-02-18,"DT:Five rounds of: 155 pound Deadlift, 12 reps 155 pound Hang power clean, 9 reps 155 pound Push jerk, 6 reps For time",869000.0,True,43395,869000.0,14 mins 29 secs,2,"clean, deadlift, hang power clean, jerk, power clean, push jerk",49.9367088608
+955,2013-02-17,Run 5 mi TT,3545000.0,True,85621,3545000.0,59 mins 5 secs,11,run,24.1526093089
+957,2013-02-15,"AMRAP 5 mins: Front Squats, Toes To Bars and Row (calories)s",2.667,True,5925,300000.0,2 rounds + 5 Front Squats + 6 Toes To Bars,60,"row, front squat, squat",19.75
+960,2013-02-13,"Run 1,2, or 3 miles",1710000.0,False,79483,1710000.0,28 mins 30 secs,19,run,46.4812865497
+962,2013-02-12,4x AMRAP 3 mins: Squat Snatches and Toes To Bars,5.2,False,24362,720000.0,5.2 rounds,48,"snatch, squat snatch, squat",33.8361111111
+963,2013-02-11,Jackie:1000 meter row Thruster 45 lbs (50 reps) Pull-ups (30 reps) For time.,736000.0,True,65430,736000.0,12 mins 16 secs,6,"row, pull-up, thruster",88.8994565217
+965,2013-02-07,"6 RFT: Kettlebell Snatches, Kettlebell Sumo Deadlift High-pulls, Kettlebell Swings and Rows",2081000.0,False,160563,2081000.0,34 mins 41 secs,91,"row, deadlift, kettlebell snatch, kettlebell sumo deadlift high-pull, kettlebell swing, snatch, sumo deadlift high-pull",77.1566554541
+966,2013-02-06,"Chipper: Handstand Push Ups, Pull-ups, Kettlebell Swings and 2 more",1245000.0,False,74937,1245000.0,20 mins 45 secs,67,"pull-up, kettlebell swing",60.1903614458
+967,2013-02-05,CrossFit Games Open 11.1 / 14.1,5.767,True,53511,600000.0,5 rounds + 30 Double Unders + 8 Power Snatches,31,,89.185
+969,2013-02-02,Run 4 mi TT,2539000.0,True,85459,2539000.0,42 mins 19 secs,11,run,33.6585269791
+971,2013-02-01,"Kelly:Run 400 meters 30 box jump, 24 inch box 30 Wallball shots, 20 pound ball Five rounds for time.",935000.0,False,57883,935000.0,15 mins 35 secs,5,"run, box jump",61.9069518717
+972,2013-01-30,AMReps 15 mins: Double Unders and Sit outs,372.0,True,16089,900000.0,372 reps,42,double under,17.8766666667
+974,2013-01-28,"AMRAP 12 mins: Barbell Curls, Box Jumps and Pull-ups",3.267,True,25550,720000.0,3 rounds + 12 Barbell Curls,52,"box jump, pull-up, barbell curl",35.4861111111
+979,2013-01-21,"Snatches, Lateral Burpee (Over Barbell)s",680.388555,True,13323,600000.0,"1500 lbs | 75 lbs, 75 lbs, 75 lbs, 75 lbs, 75 lbs, 75 lbs, 75 lbs, 75 lbs, 75 lbs, and 75 lbs",40,"burpee, lateral burpee (over barbell), snatch",22.205
+980,2013-01-18,Fight Gone Bad,254.0,True,52220,900000.0,"254 reps | 94, 81, and 79 reps",14,,58.0222222222
+984,2013-01-14,"AMRAP 7 mins: Muscle Ups, Knees To Feets and Wall Balls",2.0,False,8086,420000.0,2 rounds,55,"knees to feet, wall ball",19.2523809524
+986,2013-01-12,"3 RFT: Double Unders, Kettlebell Swings and Pull-ups",688000.0,True,51486,688000.0,11 mins 28 secs,52,"double under, pull-up, kettlebell swing",74.8343023256
+987,2013-01-12,Grace:Clean and Jerk 135 lbs 30 reps for time.,256000.0,True,24818,256000.0,4 mins 16 secs,5,"clean, jerk",96.9453125
+988,2013-01-12,Karena,57.0,True,26329,300000.0,57 reps,6,Karena,87.7633333333
+989,2013-01-11,FT: 400 m and Hang Squat Snatches,1088000.0,True,64008,1088000.0,18 mins 8 secs,33,"hang squat snatch, snatch, squat snatch, squat",58.8308823529
+993,2013-01-10,Run 2 mi TT,1380000.0,False,48130,1380000.0,23 mins,11,run,34.8768115942
+995,2013-01-08,AMRAP 10 mins: Pull-ups and Double Unders,4.5,True,24634,600000.0,4 rounds + 10 Pull-ups,41,"double under, pull-up",41.0566666667
+998,2013-01-07,"""Tabata"" - Overhead Walking Lunge With Plates, Jump Rope (Heavy Rope - Light Green)s and Burpees : 8 x 20 secs / 10 secs",477.0,True,45451,720000.0,477 reps | 86 + 341 + 50,120,"jump rope (heavy rope - light green), burpee, lunge, overhead walk, overhead walking lunge with plate, walking lunge, overhead walking lunge",63.1263888889
+999,2013-01-04,"Karen:150 Wallball shots, 20 lbs ball For time",709000.0,True,43976,709000.0,11 mins 49 secs,5,,62.0253878702
+1000,2012-12-31,"FT: Bumper Plate Burpees, AbMat Sit-ups and Squat Clean & Jerks",838000.0,True,26300,838000.0,13 mins 58 secs,63,"abmat sit-up, bumper plate burpee, burpee, sit-up, clean, clean & jerk, jerk, squat clean, squat clean & jerk, squat",31.38424821
+1002,2012-12-27,"2 RFT: 800 m, Pull-ups, Front Squats and 2 more",1188000.0,False,59511,1188000.0,19 mins 48 secs,47,"pull-up, front squat, squat",50.0934343434
+1003,2012-12-26,Annie:Double-unders Sit-ups 50-40-30-20 and 10 rep rounds; for time.,500000.0,False,39165,500000.0,8 mins 20 secs,5,"sit-up, double-under",78.33
+1006,2012-12-22,12 Days of Christmas - CFTC Style,3844000.0,False,137307,3844000.0,64 mins 4 secs,33,,35.7198231009
+1020,2012-12-10,Every 1:30 for 9 mins: Squat Snatch,4331.0,True,4331,540000.0,Completed,35,"snatch, squat snatch, squat",8.02037037037
+1023,2012-12-08,God Bless Texas (3-2-1863),9.631,False,165276,1800000.0,9.631 rounds,26,,91.82
+1024,2012-12-07,CrossFit Games Open 12.2,65.0,True,40340,600000.0,65 reps,24,,67.2333333333
+1025,2012-12-06,"50-35-20: Wall Balls, Pull-ups and Double Unders",1355000.0,True,38868,1355000.0,22 mins 35 secs,48,"double under, pull-up, wall ball",28.6848708487
+1028,2012-12-05,7 RFT: Kettlebell Swings and Box Jumps,631000.0,True,50736,631000.0,10 mins 31 secs,38,"box jump, kettlebell swing",80.4057052298
+1029,2012-12-04,"3 RFT: Rows, Burpees and 400 m",1185000.0,True,127242,1185000.0,19 mins 45 secs,30,"row, burpee",107.37721519
+1032,2012-12-01,"FT: Power Snatches, Overhead Squats and Overhead Lunges",179000.0,True,9643,179000.0,2 mins 59 secs,55,"lunge, overhead lunge, overhead squat, power snatch, snatch, squat",53.8715083799
+1033,2012-11-28,"Runs, Walking Lunges, Lateral Barrier Jumps",1835000.0,True,92644,1835000.0,30 mins 35 secs,43,"run, lateral barrier jump, lunge, walking lunge",50.4871934605
+1034,2012-11-27,"Power Cleans, Split Jerks",156.48936765,True,1075,480000.0,345 lbs | 115 lbs (1) and 115 lbs (2),25,"clean, jerk, power clean, split jerk",2.23958333333
+1036,2012-11-25,"Eva:Run 800 meters 2 pood kettlebell swing, 30 reps 30 pullups 5 rounds for time.",3513000.0,True,206803,3513000.0,58 mins 33 secs,3,"run, kettlebell swing",58.8679191574
+1037,2012-11-24,Power Cleans (7),94.0,True,53535,600000.0,94 reps,16,"clean, power clean",89.225
+1040,2012-11-22,"Wall Balls, Medicine Ball Cleans, AbMat Sit-ups, Pull Ups, Toes To Bars, etc.",2754000.0,False,97834,2754000.0,45 mins 54 secs,77,"abmat sit-up, sit-up, clean, medicine ball clean, wall ball",35.5243282498
+1041,2012-11-21,"Kettlebell Swing (American)s, Double Unders",404000.0,True,39182,404000.0,6 mins 44 secs,43,"double under, kettlebell swing, kettlebell swing (american)",96.9851485149
+1043,2012-11-20,Nasty Girls,503000.0,False,48409,503000.0,8 mins 23 secs,11,,96.24055666
+1046,2012-11-15,"Double Unders, Kettlebell Swings, Toes-to-Bars",499000.0,True,30102,499000.0,8 mins 19 secs,46,"double under, toes-to-bar, kettlebell swing",60.3246492986
+1048,2012-11-13,CFS Games Day - WOD#1,591000.0,False,47467,591000.0,9 mins 51 secs,21,,80.3164128596
+1050,2012-11-12,"Randy:75 pound power snatch, 75 reps For time",599000.0,True,41941,599000.0,9 mins 59 secs,5,"power snatch, snatch",70.0183639399
+1052,2012-11-11,Mary:5 Handstand push-ups 10 one-legged squats 15 Pull-ups As many rounds as possible in 20 minutes.,6.6,False,44826,1200000.0,6.6 rounds,4,"handstand push-up, pull-up, push-up, squat",37.355
+1054,2012-11-09,"Runs, GHD Sit-ups, Back Extensions",1000000.0,True,91800,1000000.0,16 mins 40 secs,34,"run, back extension, ghd sit-up, sit-up",91.8
+1056,2012-11-08,"10 RFT: Pull-ups, Push-ups and Air Squats",779000.0,True,74399,779000.0,12 mins 59 secs | 10.0 rounds,41,"air squat, pull-up, push-up, squat",95.5057766367
+1058,2012-11-06,FT: Double Unders (Unbroken)s,572000.0,True,42500,572000.0,9 mins 32 secs,29,"double under, double unders (unbroken)",74.3006993007
+1061,2012-11-05,Row 5 km TT,1340000.0,True,143766,1340000.0,22 mins 20 secs,11,row,107.288059701
+1062,2012-11-04,Angie:100 Pull-ups 100 Push-ups 100 Sit-ups 100 Squats For Time,1865000.0,True,94774,1865000.0,31 mins 5 secs,5,"pull-up, push-up, sit-up, squat",50.8171581769
+1063,2012-11-03,Run 5 km TT,2400000.0,True,44817,2400000.0,40 mins,11,run,18.67375
+1064,2012-11-02,Isabel:Snatch 135 lbs 30 reps for time.,520000.0,True,22992,520000.0,8 mins 40 secs,6,snatch,44.2153846154
+1065,2012-11-02,Grace:Clean and Jerk 135 lbs 30 reps for time.,206000.0,True,24582,206000.0,3 mins 26 secs,5,"clean, jerk",119.330097087
+1069,2012-10-30,Nate:2 Muscle-ups 4 Handstand Push-ups 8 2-Pood Kettlebell swings As many rounds as possible in 20 minutes,7.417,False,34937,1200000.0,7.417 rounds,4,"handstand push-up, muscle-up, push-up, kettlebell swing",29.1141666667
+1073,2012-10-28,"Linda:(aka ""3 bars of death"") Deadlift 1 1/2 Bodyweight Bench Bodyweight Clean 3/4 Bodyweight 10/9/8/7/6/5/4/3/2/1 rep rounds for time.",1739000.0,False,68536,1739000.0,28 mins 59 secs,5,"clean, deadlift",39.4111558367
+1074,2012-10-27,Grace:Clean and Jerk 135 lbs 30 reps for time.,192000.0,True,24582,192000.0,3 mins 12 secs,5,"clean, jerk",128.03125
+1075,2012-10-26,Russian Dave,2398000.0,False,122524,2398000.0,39 mins 58 secs,12,,51.0942452043
+1077,2012-10-25,"Power Cleans, Pull-up (chest-to-bar)s",541000.0,False,13503,541000.0,9 mins 1 sec,37,"pull-up, clean, power clean",24.9593345656
+1081,2012-10-22,"Hang Power Cleans, Ring Dips, Sit-up (abmat)s",6.698,False,61373,1200000.0,6.698 rounds,45,"dip, ring dip, sit-up, clean, hang power clean, power clean",51.1441666667
+1083,2012-10-21,Nancy:400 meter run Overhead squat 95 lbs x 15 5 rounds for time.,1009000.0,True,83149,1009000.0,16 mins 49 secs,5,"run, overhead squat, squat",82.4073339941
+1085,2012-10-20,CFIC Hallo-WOD,1235000.0,False,53555,1235000.0,20 mins 35 secs,14,,43.3643724696
+1086,2012-10-19,Amazing Grace,40.0,True,32776,300000.0,40 reps,13,,109.253333333
+1087,2012-10-19,Grace:Clean and Jerk 135 lbs 30 reps for time.,213000.0,True,24582,213000.0,3 mins 33 secs,5,"clean, jerk",115.408450704
+1088,2012-10-18,Row 1 km TT,226100.0,True,40398,226100.0,3 mins 46.1 secs,11,row,178.673153472
+1092,2012-10-17,"Sumo Deadlift High-pulls, Box Jumps",197000.0,True,23575,197000.0,3 mins 17 secs,35,"box jump, deadlift, sumo deadlift high-pull",119.670050761
+1094,2012-10-16,"Run (Weighted)s, Double Unders, Rope Climbs",1140000.0,True,17000,1140000.0,19 mins,43,"double under, run, run (weighted), rope climb",14.9122807018
+1098,2012-10-14,Fight For Mike,1803000.0,True,197245,1803000.0,30 mins 3 secs,14,,109.39822518
+1099,2012-10-12,"Squat Cleans, Burpees",850.48569375,True,50016,900000.0,"1875 lbs | 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, 125 lbs, and 125 lbs",21,"burpee, clean, squat clean, squat",55.5733333333
+1100,2012-10-10,Strongman Kalsu,538000.0,False,12108,538000.0,8 mins 58 secs,15,,22.5055762082
+1101,2012-10-10,5 RFT: Thrusters and Double Unders,671000.0,False,49913,671000.0,11 mins 11 secs,34,"double under, thruster",74.3859910581
+1102,2012-10-09,Helen:400 meter run 1.5 pood Kettlebell swing x 21 Pull-ups 12 reps 3 rounds for time.,865000.0,True,65057,865000.0,14 mins 25 secs,5,"run, pull-up, kettlebell swing",75.2104046243
+1105,2012-10-06,Partner WOD FGB style,627.0,True,3326,1440000.0,627 reps,21,,2.30972222222
+1106,2012-10-04,5 RFT: Deadlifts and Toes To Bars,945000.0,True,32839,945000.0,15 mins 45 secs,33,deadlift,34.7502645503
+1108,2012-10-02,CFIC Chipper,929000.0,True,102677,929000.0,15 mins 29 secs,12,,110.524219591
+1110,2012-09-29,"Box Jump (20 In.)s, Pull-ups, Walking Lunges, Kettlebell Swings, Sit-up (abmat)s, etc.",1738000.0,True,82269,1738000.0,28 mins 58 secs,86,"box jump, box jump (20 in.), lunge, pull-up, sit-up, walking lunge, kettlebell swing",47.335443038
+1111,2012-09-28,"Toes-to-Bars, Burpees, Double Unders, Runs, Rests",1456000.0,True,84051,1456000.0,24 mins 16 secs,49,"double under, run, burpee, toes-to-bar",57.7273351648
+1112,2012-09-25,"Lorne's Birthday WOD ""9/25/84""",1218000.0,False,51314,1218000.0,20 mins 18 secs,30,,42.1297208539
+1113,2012-09-23,"Adrian:Seven rounds for time of: 3 Forward rolls 5 Wall climbs 7 Toes to bar 9 Box jumps, 30"" box",1968000.0,True,29886,1968000.0,32 mins 48 secs,6,"box jump, forward roll, wall climb",15.1859756098
+1115,2012-09-22,"Partner Carries, Wall Balls, Pull-ups, Runs",555000.0,True,29359,555000.0,9 mins 15 secs,43,"run, pull-up, wall ball",52.8990990991
+1116,2012-09-22,Annie:Double-unders Sit-ups 50-40-30-20 and 10 rep rounds; for time.,385000.0,True,37822,385000.0,6 mins 25 secs,5,"sit-up, double-under",98.238961039
+1117,2012-09-21,"Kettlebell Swings, Push-up (hand release)s",480000.0,True,45194,480000.0,8 mins,42,"push-up, kettlebell swing",94.1541666667
+1119,2012-09-20,"10 Min AMRAP: Wall Balls, Double Unders",7.95,True,44023,600000.0,7.95 rounds,39,"double under, wall ball",73.3716666667
+1121,2012-09-19,15-12-9: Thrusters and Chest-to-bar Pull-ups,198000.0,False,20617,198000.0,3 mins 18 secs,44,"chest-to-bar pull-up, pull-up, thruster",104.126262626
+1123,2012-09-18,"Runs, Burpees",5.929,True,38545,420000.0,5.929 rounds,13,"run, burpee",91.7738095238
+1125,2012-09-17,"Deadlifts, Squat Cleans, Front Squats, Push Jerks",8.333,False,37653,720000.0,8.333 rounds,49,"clean, deadlift, front squat, jerk, push jerk, squat clean, squat",52.2958333333
+1128,2012-09-13,"Tabata - Kettlebell Swings, Rests, Sit-up (abmat)s, Double Unders, Push-ups",496.0,True,53408,480000.0,496 reps,75,"double under, push-up, sit-up, kettlebell swing",111.266666667
+1130,2012-09-12,"Snatch Grip Push Presses, Overhead Squats, Kettlebell Swing (American)s",217000.0,True,22053,217000.0,"3 mins 37 secs | (1 min 7 secs), (53 secs), (49 secs), and (48 secs)",71,"kettlebell swing, kettlebell swing (american), overhead squat, press, push press, snatch, snatch grip push press, squat",101.626728111
+1131,2012-09-11,Tyler:Five rounds of: 7 Muscle-ups 21 reps 95 pound Sumo-deadlift high-pull For time,1491000.0,False,95585,1491000.0,24 mins 51 secs,5,"muscle-up, deadlift",64.1079812207
+1135,2012-09-10,"Runs, Sit-up (abmat)s, Lunges, Push-up (rings)s, Squat Jumps, etc.",994000.0,False,55062,994000.0,16 mins 34 secs,66,"run, lunge, push-up, sit-up, squat jump, squat",55.3943661972
+1141,2012-09-07,"Wall Balls, Kettlebell Swing (American)s",210.0,True,53238,720000.0,"210 reps | 15/20, 15/20, 15/20, 15/20, 15/20, and 15/20",40,"kettlebell swing, kettlebell swing (american), wall ball",73.9416666667
+1147,2012-09-06,"Runs, Handstand Push-ups, Double Unders",850000.0,False,48640,850000.0,14 mins 10 secs,39,"double under, run, handstand push-up, push-up",57.2235294118
+1153,2012-09-05,"Thruster (Kettlebell)s, Pull-ups",527000.0,True,13649,527000.0,8 mins 47 secs,32,"pull-up, thruster",25.89943074
+1163,2012-09-03,"""Team America"" Outlaw July 4th 2012",1115000.0,True,69154,1115000.0,18 mins 35 secs,35,,62.0215246637
+1164,2012-09-01,"Box Jump (24 in.)s, Overhead Walking Lunges, Runs, Rope Climbs",1065000.0,True,82040,1065000.0,17 mins 45 secs,62,"run, box jump, box jump (24 in.), lunge, overhead walk, rope climb, walking lunge, overhead walking lunge",77.0328638498
+1165,2012-08-30,Pyramid Double Helen,1670000.0,True,121731,1670000.0,27 mins 50 secs,20,,72.8928143713
+1167,2012-08-29,"Ring Dips, Pull-ups, Kettlebell Swing (American)s",5.0,False,38450,600000.0,5.0 rounds,49,"dip, pull-up, ring dip, kettlebell swing, kettlebell swing (american)",64.0833333333
+1169,2012-08-29,Double Unders : 500 Reps for Time,561000.0,True,42250,561000.0,9 mins 21 secs,33,double under,75.311942959
+1171,2012-08-28,"Power Cleans, Thrusters, Burpees",5.0,True,52868,720000.0,5.0 rounds,32,"burpee, clean, power clean, thruster",73.4277777778
+1172,2012-08-22,Team Barbbell Complex 10!,1140000.0,False,47147,1140000.0,19 mins,25,,41.3570175439
+1173,2012-08-21,"Box Jump (24 in.)s, Walking Lunges, Kettlebell Swing (American)s, Push-up (hand release)s",618000.0,True,71130,618000.0,"10 mins 18 secs | (2 mins 54 secs), (3 mins 45 secs), and (3 mins 39 secs)",89,"box jump, box jump (24 in.), lunge, push-up, walking lunge, kettlebell swing, kettlebell swing (american)",115.097087379
+1175,2012-08-20,Filthy Fifty,1900000.0,True,110960,1900000.0,31 mins 40 secs,12,,58.4
+1178,2012-08-16,"Handstand Push-ups, Power Snatches, Burpees",575000.0,False,30851,575000.0,9 mins 35 secs,43,"burpee, handstand push-up, push-up, power snatch, snatch",53.6539130435
+1180,2012-08-15,"Pull-ups, Kettlebell Swing (Russian)s, Sit-up (abmat)s, Double Unders",854000.0,True,71020,854000.0,14 mins 14 secs,69,"double under, pull-up, sit-up, kettlebell swing",83.1615925059
+1183,2012-08-14,"Toes-to-Bars, Push-up (hand release)s",2.3,True,9643,120000.0,2.3 rounds,37,"push-up, toes-to-bar",80.3583333333
+1184,2012-08-11,Grace:Clean and Jerk 135 lbs 30 reps for time.,234000.0,True,24393,234000.0,3 mins 54 secs,5,"clean, jerk",104.243589744
+1185,2012-08-11,2012 CFA Summer Showdown WOD #1,54.0,True,24963,240000.0,54 reps,31,,104.0125
+1186,2012-08-11,2012 CFA Summer Showdown WOD #2,478000.0,True,28692,478000.0,7 mins 58 secs,31,,60.0251046025
+1187,2012-08-11,2012 CFA Summer Showdown WOD #3,4.325,True,46207,480000.0,4.325 rounds,31,,96.2645833333
+1189,2012-08-09,"Double Unders, Burpees",328000.0,True,41231,328000.0,5 mins 28 secs,22,"double under, burpee",125.704268293
+1191,2012-08-08,"Overhead Walking Lunge With Plates, Toes-to-Bars",728000.0,True,27929,728000.0,12 mins 8 secs,48,"lunge, overhead walk, overhead walking lunge with plate, toes-to-bar, walking lunge, overhead walking lunge",38.364010989
+1193,2012-08-07,"Pull-up (strict)s, Burpees, Box Jump (20 in.)s, Runs",1152000.0,True,71366,1152000.0,19 mins 12 secs,52,"run, box jump, box jump (20 in.), burpee, pull-up",61.9496527778
+1194,2012-08-06,"Push Presses, Hang Power Cleans, Box Jump (24 in.)s",417000.0,True,34319,417000.0,6 mins 57 secs,51,"box jump, box jump (24 in.), clean, hang power clean, power clean, press, push press",82.2997601918
+1198,2012-08-02,"Medicine Ball Cleans, Push-ups",420000.0,True,45140,420000.0,"7 mins | 136 reps | (1 min), (1 min), (1 min), (1 min), (1 min), (1 min), and (1 min) | 12/11, 12/7, 12/5, 12/6, 12/6, 12/8, and 12/9",30,"push-up, clean, medicine ball clean",107.476190476
+1199,2012-08-02,Annie:Double-unders Sit-ups 50-40-30-20 and 10 rep rounds; for time.,363000.0,True,37151,363000.0,6 mins 3 secs,5,"sit-up, double-under",102.344352617
+1207,2012-07-26,Run 2 mi TT,1140000.0,True,52989,1140000.0,19 mins,11,run,46.4815789474
+1208,2012-07-25,"Abbate:Run 1 mile 155 pound Clean and jerk, 21 reps Run 800 meters 155 pound Clean and jerk, 21 reps Run 1 Mile For time",1999000.0,False,94118,1999000.0,33 mins 19 secs,6,"run, clean, jerk",47.0825412706
+1276,2012-06-18,Run 1 mi TT,615000.0,True,22365,615000.0,10 mins 15 secs,11,run,36.3658536585
+1373,2012-03-15,CrossFit Games Open 12.4 / 13.3,240.0,True,50427,720000.0,240 reps,31,,70.0375
+1502,2011-10-10,5 RFT: Double Unders and 200 m,477000.0,True,15050,477000.0,7 mins 57 secs,30,double under,31.5513626834
+1663,2011-06-13,"Chipper: Rows, Air Squats, Sit-up (standard)s and 2 more",459000.0,False,43340,459000.0,7 mins 39 secs,56,"row, air squat, sit-up, sit-up (standard), squat",94.4226579521
+1733,2011-04-07,CrossFit Games Open 11.3,32.0,False,12712,300000.0,16.0 rounds | 32 reps,24,,42.3733333333
+1761,2011-03-14,"Wittman:Seven rounds of:  1.5 pood Kettlebell swing, 15 reps 95 pound Power clean, 15 reps 15 Box jumps, 24"" box For time",1241000.0,False,98285,1241000.0,20 mins 41 secs,7,"box jump, clean, kettlebell swing, power clean",79.1982272361

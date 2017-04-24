@@ -1,0 +1,429 @@
+,movement,frequency,move_class
+0,airdyne bike,4,Monostructural
+1,airdyne calories,7,Monostructural
+2,assault bike,1,Monostructural
+3,assault bike calories,3,Monostructural
+4,"back stroke, swimming",1,Monostructural
+5,bear crawl,4,Monostructural
+6,bike,3,Monostructural
+7,bike ride (mountain bike),1,Monostructural
+8,"crawl, swimming",1,Monostructural
+9,double under,153,Monostructural
+10,farmers walk (kettlebell),1,Monostructural
+11,handstand walk,7,Monostructural
+12,hike,1,Monostructural
+13,jump rope (heavy rope - light green),1,Monostructural
+14,plate carry,1,Monostructural
+15,prowler push,1,Monostructural
+16,quad smash,5,Monostructural
+17,row,106,Monostructural
+18,row calories,29,Monostructural
+19,run,212,Monostructural
+20,run (backwards),3,Monostructural
+21,run (hill   weighted),1,Monostructural
+22,run (trueform),1,Monostructural
+23,run (weighted),3,Monostructural
+24,sandbag carry,2,Monostructural
+25,sandbag run,4,Monostructural
+26,shuttle run,4,Monostructural
+27,sled drag,5,Monostructural
+28,sled pull,1,Monostructural
+29,sprint,5,Monostructural
+30,swim,6,Monostructural
+31,"swimming, flutter kick",1,Monostructural
+32,vertical jump,1,Monostructural
+33,ab roller,1,Gymnastics
+34,abmat sit-up,62,Gymnastics
+35,air squat,63,Gymnastics
+36,ankle mobility,8,Gymnastics
+37,back extension,9,Gymnastics
+38,backward roll,1,Gymnastics
+39,banded muscle up transition,1,Gymnastics
+40,banded shoulder stretch,1,Gymnastics
+41,bar dip,6,Gymnastics
+42,bar dip (assisted),6,Gymnastics
+43,bar dip (blue band),1,Gymnastics
+44,bar facing burpee,10,Gymnastics
+45,barbell warm-up complex,1,Gymnastics
+46,barrier hop burpee,1,Gymnastics
+47,bench dip,2,Gymnastics
+48,body row,6,Gymnastics
+49,bound,1,Gymnastics
+50,box dip,2,Gymnastics
+51,box jump,50,Gymnastics
+52,box jump (12 in.),2,Gymnastics
+53,box jump (16 in.),1,Gymnastics
+54,box jump (18 in.),16,Gymnastics
+55,box jump (20 in.),14,Gymnastics
+56,box jump (24 in.),10,Gymnastics
+57,box jump (30 in.),1,Gymnastics
+58,box jump (step up),1,Gymnastics
+59,box jump over,9,Gymnastics
+60,box step-up,2,Gymnastics
+61,bumper plate burpee,1,Gymnastics
+62,burpee,120,Gymnastics
+63,burpee (hand release),1,Gymnastics
+64,burpee box jump,6,Gymnastics
+65,burpee box jump over,4,Gymnastics
+66,burpee broad jump,3,Gymnastics
+67,burpee chest-to-bar pull-up ,1,Gymnastics
+68,burpee onto plate,1,Gymnastics
+69,burpee over bar,3,Gymnastics
+70,burpee over box,1,Gymnastics
+71,burpee pull-up,4,Gymnastics
+72,cartwheel,1,Gymnastics
+73,chest smash,1,Gymnastics
+74,chest stretch,4,Gymnastics
+75,chest-to-bar pull-up,16,Gymnastics
+76,chest-to-bar pull-up (banded),4,Gymnastics
+77,chest-to-bar pull-up (jumping),2,Gymnastics
+78,chin over bar hold,2,Gymnastics
+79,chin-up,2,Gymnastics
+80,crab walk,1,Gymnastics
+81,dead hang pull up,1,Gymnastics
+82,dip,8,Gymnastics
+83,dolphin push-up,1,Gymnastics
+84,double unders (unbroken),3,Gymnastics
+85,down dog,1,Gymnastics
+86,duck walk,1,Gymnastics
+87,elbow-to-toe,4,Gymnastics
+88,feet elevated ring row,1,Gymnastics
+89,flexed arm hang,2,Gymnastics
+90,flutter kicks (4 count),2,Gymnastics
+91,forward fold w/ shoulder ext,1,Gymnastics
+92,forward roll,1,Gymnastics
+93,frog jump,1,Gymnastics
+94,frog stretch,1,Gymnastics
+95,front rack mobility,2,Gymnastics
+96,front split,1,Gymnastics
+97,ghd hip extension,2,Gymnastics
+98,ghd sit-up,23,Gymnastics
+99,hand release push-up,24,Gymnastics
+100,handstand hold,22,Gymnastics
+101,handstand kick up (free standing),1,Gymnastics
+102,handstand push up - ab mat,1,Gymnastics
+103,handstand push-up,36,Gymnastics
+104,handstand push-up (box),6,Gymnastics
+105,handstand push-up (negative),1,Gymnastics
+106,handstand push-up skill session,1,Gymnastics
+107,hanging knee raise,4,Gymnastics
+108,hanging l sit,1,Gymnastics
+109,hanging leg raise,4,Gymnastics
+110,hip extension,6,Gymnastics
+111,hollow hold,5,Gymnastics
+112,hollow rock,3,Gymnastics
+113,horizontal body weight row,1,Gymnastics
+114,hs smash,2,Gymnastics
+115,ice skater,1,Gymnastics
+116,instep stretch,2,Gymnastics
+117,inverted burpee,3,Gymnastics
+118,iron cross,2,Gymnastics
+119,isometric ring hold,1,Gymnastics
+120,jump rope (singles),4,Gymnastics
+121,jumping alternating lunge,4,Gymnastics
+122,jumping bar muscle-up,3,Gymnastics
+123,jumping pull-up,10,Gymnastics
+124,jumping squat,7,Gymnastics
+125,karaoke,1,Gymnastics
+126,knee jump,3,Gymnastics
+127,kneeling shoulder stretch,5,Gymnastics
+128,knees to elbow,11,Gymnastics
+129,knees to feet,1,Gymnastics
+130,knees-to-chest,5,Gymnastics
+131,l sit,2,Gymnastics
+132,l sit (hanging),2,Gymnastics
+133,l sit on parallette,1,Gymnastics
+134,l sit tuck to extension,2,Gymnastics
+135,lat smash,1,Gymnastics
+136,lat/tri smash,1,Gymnastics
+137,lateral bar jump,1,Gymnastics
+138,lateral barrier jump,1,Gymnastics
+139,lateral burpee (over barbell),11,Gymnastics
+140,lateral jump,2,Gymnastics
+141,left side plank,1,Gymnastics
+142,legless rope climb,2,Gymnastics
+143,lunge,4,Gymnastics
+144,max rep pull up,1,Gymnastics
+145,mini band squat,2,Gymnastics
+146,monkey bar traverse,1,Gymnastics
+147,mountain climbers,1,Gymnastics
+148,muscle up box progression,1,Gymnastics
+149,muscle up progression,5,Gymnastics
+150,muscle-up,3,Gymnastics
+151,muscle-up (banded),4,Gymnastics
+152,muscle-up (feet on ground),2,Gymnastics
+153,"muscle-up (sub: 1 pull-up, 1 dip)",1,Gymnastics
+154,muscle-up transition,3,Gymnastics
+155,overhead walk,3,Gymnastics
+156,overhead walking lunge with plate,2,Gymnastics
+157,pancake stretch,3,Gymnastics
+158,parallel bar walk,1,Gymnastics
+159,parallette dip,1,Gymnastics
+160,parallette pass through,1,Gymnastics
+161,parallette push-up,1,Gymnastics
+162,partner assisted glute ham raise,1,Gymnastics
+163,pass through,2,Gymnastics
+164,pigeon stretch,5,Gymnastics
+165,piriformis smash,1,Gymnastics
+166,pistol,8,Gymnastics
+167,pistol (assisted w/pole or wall),1,Gymnastics
+168,pistol (left leg),2,Gymnastics
+169,pistol (right leg),2,Gymnastics
+170,pistols (alternating legs),4,Gymnastics
+171,plank hold,8,Gymnastics
+172,plank walk,1,Gymnastics
+173,plyo push ups (height),1,Gymnastics
+174,press to hanstand practice,1,Gymnastics
+175,prone dislocate,7,Gymnastics
+176,prone snow angel,1,Gymnastics
+177,pull up (chin over bar),1,Gymnastics
+178,pull-up,149,Gymnastics
+179,pull-up (blue band),6,Gymnastics
+180,pull-up (green band),4,Gymnastics
+181,pull-up (negative),1,Gymnastics
+182,pull-up (purple band),1,Gymnastics
+183,pull-up (red band),3,Gymnastics
+184,push up (deficit),1,Gymnastics
+185,push-up,75,Gymnastics
+186,push-up (clapping),1,Gymnastics
+187,push-up (knees),6,Gymnastics
+188,push-up (medicine ball),1,Gymnastics
+189,right side plank,1,Gymnastics
+190,ring dip,9,Gymnastics
+191,ring dip (blue band),1,Gymnastics
+192,ring dip (purple band),7,Gymnastics
+193,ring dip (red band),3,Gymnastics
+194,ring l sit,1,Gymnastics
+195,ring push-up,12,Gymnastics
+196,ring row,13,Gymnastics
+197,rope climb,14,Gymnastics
+198,rope climb (from ground to standing),5,Gymnastics
+199,rtc prep,1,Gymnastics
+200,russian step up,1,Gymnastics
+201,russian twist,1,Gymnastics
+202,scorpion,1,Gymnastics
+203,seal walk,1,Gymnastics
+204,seated forward fold,2,Gymnastics
+205,shoulder mobility,1,Gymnastics
+206,shoulder smash,6,Gymnastics
+207,shoulder stand (rings),1,Gymnastics
+208,shoulder tap,1,Gymnastics
+209,side plank,2,Gymnastics
+210,side plank lift,1,Gymnastics
+211,side split,1,Gymnastics
+212,single leg glute bridge,1,Gymnastics
+213,sit-up,1,Gymnastics
+214,sit-up (ghd - parallel),2,Gymnastics
+215,sit-up (standard),9,Gymnastics
+216,skin the cat,3,Gymnastics
+217,squat hold,2,Gymnastics
+218,squat jump,2,Gymnastics
+219,squat prep,5,Gymnastics
+220,strict bar dip,3,Gymnastics
+221,strict chin-up,2,Gymnastics
+222,strict handstand push-up,4,Gymnastics
+223,strict muscle-up,4,Gymnastics
+224,strict pull-up,18,Gymnastics
+225,strict pull-up (band),2,Gymnastics
+226,strict toes to bar,2,Gymnastics
+227,superman  hold,1,Gymnastics
+228,t spine mobility w/ ball,1,Gymnastics
+229,tabata squat,1,Gymnastics
+230,thoracic spine mobility,2,Gymnastics
+231,toes to ring,1,Gymnastics
+232,toes-to-bar,68,Gymnastics
+233,towel row,1,Gymnastics
+234,triceps smash,1,Gymnastics
+235,tuck hold (parallettes),1,Gymnastics
+236,v out,1,Gymnastics
+237,v up situp,1,Gymnastics
+238,v-up,4,Gymnastics
+239,vinyasa flow,9,Gymnastics
+240,walking lunge,15,Gymnastics
+241,wall climb,3,Gymnastics
+242,wall handstand hold,2,Gymnastics
+243,wall walk,10,Gymnastics
+244,weighted forward fold,1,Gymnastics
+245,3 position clean + jerk,1,Weightlifting
+246,atlas stone carry,2,Weightlifting
+247,atlas stone clean,1,Weightlifting
+248,atlas stone ground to shoulder,1,Weightlifting
+249,back rack walking lunge,1,Weightlifting
+250,back squat,138,Weightlifting
+251,back squat 80%,1,Weightlifting
+252,ball slam,13,Weightlifting
+253,barbell carry,1,Weightlifting
+254,barbell complex,3,Weightlifting
+255,barbell curl,1,Weightlifting
+256,barbell rollout,2,Weightlifting
+257,bear complex,3,Weightlifting
+258,behind the neck push press,1,Weightlifting
+259,bench press,58,Weightlifting
+260,bent over barbell row,4,Weightlifting
+261,bodyweight bench press,1,Weightlifting
+262,box squat,1,Weightlifting
+263,bulgarian split squat,4,Weightlifting
+264,bumper plate ground to overhead,3,Weightlifting
+265,chain drag,1,Weightlifting
+266,clean,9,Weightlifting
+267,clean & jerk,43,Weightlifting
+268,clean high pull,2,Weightlifting
+269,clean pull,4,Weightlifting
+270,curtis p,1,Weightlifting
+271,deadlift,168,Weightlifting
+272,deadlift 75%,1,Weightlifting
+273,deadlift carry,1,Weightlifting
+274,deadlift hold,1,Weightlifting
+275,double kettlebell front squat,2,Weightlifting
+276,double kettlebell push press,1,Weightlifting
+277,dumbbell bench press,4,Weightlifting
+278,dumbbell bulgarian split squat,1,Weightlifting
+279,dumbbell deadlift,1,Weightlifting
+280,dumbbell front rack walking lunge,1,Weightlifting
+281,dumbbell hang clean,1,Weightlifting
+282,dumbbell hang power clean,1,Weightlifting
+283,dumbbell hang squat clean,2,Weightlifting
+284,dumbbell man-makers,2,Weightlifting
+285,dumbbell power clean,1,Weightlifting
+286,dumbbell power snatch (one arm - l),1,Weightlifting
+287,dumbbell power snatch (one arm - r),1,Weightlifting
+288,dumbbell push jerk,2,Weightlifting
+289,dumbbell push press,6,Weightlifting
+290,dumbbell row,1,Weightlifting
+291,dumbbell shoulder press,10,Weightlifting
+292,dumbbell snatch,5,Weightlifting
+293,dumbbell thruster,9,Weightlifting
+294,dumbbell thruster (one arm),1,Weightlifting
+295,dumbbell walking lunge,4,Weightlifting
+296,front rack lunge,2,Weightlifting
+297,front rack walking lunge,2,Weightlifting
+298,front squat,125,Weightlifting
+299,front squat pause,1,Weightlifting
+300,goblet squat,4,Weightlifting
+301,good morning,6,Weightlifting
+302,ground to overhead,1,Weightlifting
+303,halting clean deadlift,1,Weightlifting
+304,halting snatch deadlift,2,Weightlifting
+305,hang clean,2,Weightlifting
+306,hang clean & jerk,1,Weightlifting
+307,hang power clean,30,Weightlifting
+308,hang power clean & jerk,2,Weightlifting
+309,hang power snatch,7,Weightlifting
+310,hang snatch,2,Weightlifting
+311,hang snatch high pull,1,Weightlifting
+312,hang squat clean,12,Weightlifting
+313,hang squat clean & jerk,1,Weightlifting
+314,hang squat clean thruster,1,Weightlifting
+315,hang squat snatch,10,Weightlifting
+316,high hang squat clean,2,Weightlifting
+317,high hang squat snatch,1,Weightlifting
+318,in-step stretch,1,Weightlifting
+319,jerk,3,Weightlifting
+320,jerk dip squat,2,Weightlifting
+321,kettlebell deadlift,1,Weightlifting
+322,kettlebell ground to overhead (one arm l),1,Weightlifting
+323,kettlebell ground to overhead (one arm r),1,Weightlifting
+324,kettlebell overhead squat   left arm,1,Weightlifting
+325,kettlebell overhead squat   right arm,1,Weightlifting
+326,kettlebell push press,1,Weightlifting
+327,kettlebell snatch,4,Weightlifting
+328,kettlebell squat clean,1,Weightlifting
+329,kettlebell sumo deadlift high-pull,4,Weightlifting
+330,kettlebell swing,72,Weightlifting
+331,kettlebell swing (1 arm),1,Weightlifting
+332,kettlebell swing (american),34,Weightlifting
+333,kettlebell thruster,3,Weightlifting
+334,medicine ball clean,11,Weightlifting
+335,medicine ball goblet squat,1,Weightlifting
+336,medicine ball over bar,1,Weightlifting
+337,muscle snatch,1,Weightlifting
+338,one arm dumbbell snatch (alternating),8,Weightlifting
+339,overhead hold,1,Weightlifting
+340,overhead lunge,1,Weightlifting
+341,overhead squat,90,Weightlifting
+342,overhead walking lunge,14,Weightlifting
+343,pause clean,1,Weightlifting
+344,pause clean and jerk,1,Weightlifting
+345,pause squat clean,1,Weightlifting
+346,pause squat snatch,2,Weightlifting
+347,power clean,70,Weightlifting
+348,power clean & jerk,5,Weightlifting
+349,power clean & push jerk,1,Weightlifting
+350,power snatch,46,Weightlifting
+351,press,5,Weightlifting
+352,prone dumbbell row,5,Weightlifting
+353,push jerk,29,Weightlifting
+354,push press,62,Weightlifting
+355,pvc good morning,1,Weightlifting
+356,pvc overhead squat,3,Weightlifting
+357,pvc thruster,3,Weightlifting
+358,renegade row,2,Weightlifting
+359,reverse grip bench press,1,Weightlifting
+360,romanian deadlift (snatch grip),1,Weightlifting
+361,russian kettlebell swing,20,Weightlifting
+362,seated dumbbell press,1,Weightlifting
+363,seated shoulder press,1,Weightlifting
+364,shankle complex,1,Weightlifting
+365,shoulder press,45,Weightlifting
+366,shoulder-to-overhead,15,Weightlifting
+367,single arm arnold press,1,Weightlifting
+368,single arm db bent over row,2,Weightlifting
+369,single arm dumbbell shoulder press,3,Weightlifting
+370,single arm high pull,1,Weightlifting
+371,single arm kettlebell overhead walking lunge,1,Weightlifting
+372,single arm thruster,1,Weightlifting
+373,sled push,5,Weightlifting
+374,sled push low handle,1,Weightlifting
+375,snatch,40,Weightlifting
+376,snatch balance,8,Weightlifting
+377,snatch deadlift,1,Weightlifting
+378,snatch grip deadlift,6,Weightlifting
+379,snatch grip push press,1,Weightlifting
+380,snatch high pull,4,Weightlifting
+381,snatch lift off,2,Weightlifting
+382,sots press,1,Weightlifting
+383,split jerk,23,Weightlifting
+384,split press,1,Weightlifting
+385,split squat,1,Weightlifting
+386,squat clean,40,Weightlifting
+387,squat clean & jerk,6,Weightlifting
+388,squat clean + back squat + front squat,1,Weightlifting
+389,squat clean from blocks,1,Weightlifting
+390,squat clean thruster,3,Weightlifting
+391,squat snatch,27,Weightlifting
+392,squat snatch from blocks,1,Weightlifting
+393,stiff legged deadlift,1,Weightlifting
+394,stone carry,1,Weightlifting
+395,straight legged deadlift,1,Weightlifting
+396,strict press,8,Weightlifting
+397,sumo deadlift high-pull,20,Weightlifting
+398,tabata front squat,1,Weightlifting
+399,tabata overhead squat,1,Weightlifting
+400,tempo back squat,1,Weightlifting
+401,tempo front squat,1,Weightlifting
+402,thruster,59,Weightlifting
+403,tire flip,2,Weightlifting
+404,turkish get up,4,Weightlifting
+405,"turkish get-up, left arm",1,Weightlifting
+406,"turkish get-up, right arm",1,Weightlifting
+407,two hand dumbbell bent over row,1,Weightlifting
+408,wall ball,116,Weightlifting
+409,wall ball (2 for 1),4,Weightlifting
+410,wall ball (partner),1,Weightlifting
+411,wall ball sit-up,1,Weightlifting
+412,weighted abmat sit-up,1,Weightlifting
+413,weighted air squat,1,Weightlifting
+414,weighted barbell step-up,1,Weightlifting
+415,weighted dip,7,Weightlifting
+416,weighted lunge,3,Weightlifting
+417,weighted pull-up,7,Weightlifting
+418,weighted push-up,2,Weightlifting
+419,weighted sit-up,2,Weightlifting
+420,weighted step ups holding dumbbell,1,Weightlifting
+421,weighted strict bar dip,1,Weightlifting
+422,weighted strict pull-up,4,Weightlifting
+423,weighted strict ring dip,3,Weightlifting
+424,weighted walking lunge,1,Weightlifting
+425,yoke carry,1,Weightlifting
+426,zercher squat,1,Weightlifting
+427,zercher yoke carry,1,Weightlifting
